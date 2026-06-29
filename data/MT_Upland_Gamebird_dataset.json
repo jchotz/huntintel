@@ -1,0 +1,213 @@
+{
+  "state": "Montana",
+  "category": "Upland Game Birds",
+  "source": {
+    "page_url": "https://fwp.mt.gov/hunt/regulations/upland-game-bird",
+    "page_label": "Hunt By Species: Upland Game Birds | Montana FWP",
+    "last_updated": null,
+    "update_note": "No explicit last-updated date found on source page; page states regulations are typically posted mid July.",
+    "scraped_at": "2026-06-18T21:02:14Z"
+  },
+  "species": [
+    {
+      "name": "Mountain Grouse",
+      "asterisk": false,
+      "season_start": "September 1, 2025",
+      "season_end": "January 1, 2026",
+      "season_raw": "September 1, 2025 - January 1, 2026",
+      "bag_limit": "3 in aggregate daily",
+      "possession_limit": "9"
+    },
+    {
+      "name": "Partridge",
+      "asterisk": true,
+      "season_start": "September 1, 2025",
+      "season_end": "January 1, 2026",
+      "season_raw": "September 1, 2025 - January 1, 2026",
+      "bag_limit": "8 in aggregate daily",
+      "possession_limit": "24"
+    },
+    {
+      "name": "Ring-necked Pheasant",
+      "asterisk": true,
+      "season_start": "October 11, 2025",
+      "season_end": "January 1, 2026",
+      "season_raw": "October 11, 2025 - January 1, 2026",
+      "bag_limit": "3 cock pheasants daily",
+      "possession_limit": "9"
+    },
+    {
+      "name": "Sage Grouse",
+      "asterisk": true,
+      "season_start": "September 1, 2025",
+      "season_end": "September 30, 2025",
+      "season_raw": "September 1, 2025 - September 30, 2025",
+      "bag_limit": "2 daily",
+      "possession_limit": "4"
+    },
+    {
+      "name": "Sharp-tailed Grouse",
+      "asterisk": true,
+      "season_start": "September 1, 2025",
+      "season_end": "January 1, 2026",
+      "season_raw": "September 1, 2025 - January 1, 2026",
+      "bag_limit": "4 daily",
+      "possession_limit": "16"
+    },
+    {
+      "name": "California/Gambel's Quail",
+      "asterisk": false,
+      "season_start": "No closed season",
+      "season_end": "No closed season",
+      "season_raw": "No closed season",
+      "bag_limit": "No limit",
+      "possession_limit": "No limit"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Upland Game Bird License",
+      "asterisk": false,
+      "resident_cost": "$10.00 standard / $5.00 discounted",
+      "nonresident_cost": "$127.00 standard / $63.50 discounted",
+      "purchase_urls": [
+        {
+          "label": "Montana FWP Buy and Apply",
+          "url": "https://fwp.mt.gov/buyandapply"
+        },
+        {
+          "label": "FWP Online Licensing",
+          "url": "https://ols.fwp.mt.gov"
+        }
+      ]
+    },
+    {
+      "name": "3-day Upland Game Bird License",
+      "asterisk": true,
+      "resident_cost": null,
+      "nonresident_cost": "$60.00",
+      "purchase_urls": [
+        {
+          "label": "Montana FWP Buy and Apply",
+          "url": "https://fwp.mt.gov/buyandapply"
+        },
+        {
+          "label": "FWP Online Licensing",
+          "url": "https://ols.fwp.mt.gov"
+        }
+      ]
+    },
+    {
+      "name": "Shooting Preserve License",
+      "asterisk": false,
+      "resident_cost": null,
+      "nonresident_cost": "$20.00",
+      "purchase_urls": [
+        {
+          "label": "Montana FWP Buy and Apply",
+          "url": "https://fwp.mt.gov/buyandapply"
+        },
+        {
+          "label": "FWP Online Licensing",
+          "url": "https://ols.fwp.mt.gov"
+        }
+      ]
+    },
+    {
+      "name": "Former Resident License",
+      "asterisk": false,
+      "resident_cost": null,
+      "nonresident_cost": "$63.50",
+      "purchase_urls": [
+        {
+          "label": "Montana FWP Buy and Apply",
+          "url": "https://fwp.mt.gov/buyandapply"
+        },
+        {
+          "label": "FWP Online Licensing",
+          "url": "https://ols.fwp.mt.gov"
+        }
+      ]
+    }
+  ],
+  "key_notes": [
+    {
+      "title": "Free supplemental permit required for sage grouse hunting.",
+      "applies_to": [
+        "Sage Grouse"
+      ],
+      "sources": [
+        {
+          "url": "https://fwp.mt.gov/binaries/content/assets/fwp/hunt/regulations/2025/2025-upgbrd-final-for-web.pdf",
+          "label": "2025 UPLAND GAME BIRD PDF - Highlights/Reminders and permit requirement",
+          "evidence": "Free supplemental permit required for sage grouse hunting."
+        },
+        {
+          "url": "https://fwp.mt.gov/binaries/content/assets/fwp/hunt/regulations/2025/2025-upgbrd-final-for-web.pdf",
+          "label": "2025 UPLAND GAME BIRD PDF - Supplemental Sage Grouse Hunting Permit section",
+          "evidence": "All upland game bird hunters that choose to hunt sage grouse must obtain a free Supplemental Sage Grouse Hunting Permit."
+        }
+      ]
+    },
+    {
+      "title": "Sharp-tailed grouse hunting west of the Continental Divide is closed.",
+      "applies_to": [
+        "Sharp-tailed Grouse"
+      ],
+      "sources": [
+        {
+          "url": "https://fwp.mt.gov/binaries/content/assets/fwp/hunt/regulations/2025/2025-upgbrd-final-for-web.pdf",
+          "label": "2025 UPLAND GAME BIRD PDF - Highlights/Reminders",
+          "evidence": "Sharp-tailed grouse hunting west of the Continental Divide is closed."
+        },
+        {
+          "url": "https://fwp.mt.gov/binaries/content/assets/fwp/hunt/regulations/2025/2025-upgbrd-final-for-web.pdf",
+          "label": "2025 UPLAND GAME BIRD PDF - Hunting Season Information table",
+          "evidence": "Sharp-tailed Grouse ... Closed West of the Continental Divide."
+        }
+      ]
+    },
+    {
+      "title": "In a portion of Carbon County, the partridge season extends to Jan. 10.",
+      "applies_to": [
+        "Partridge"
+      ],
+      "sources": [
+        {
+          "url": "https://fwp.mt.gov/hunt/regulations/upland-game-bird",
+          "label": "Montana FWP upland game bird page",
+          "evidence": "Partridge: Sept. 1 - Jan. 1 (except for portion of Carbon County, where it is Sept. 1 - Jan. 10)."
+        },
+        {
+          "url": "https://fwp.mt.gov/binaries/content/assets/fwp/hunt/regulations/2025/2025-upgbrd-final-for-web.pdf",
+          "label": "2025 UPLAND GAME BIRD PDF - Hunting Season Information table",
+          "evidence": "Portion of Carbon County ... Sept. 01 - Jan. 10."
+        }
+      ]
+    },
+    {
+      "title": "The 3-day Upland Game Bird License is not valid for sage grouse at any time or for ring-necked pheasant during the opening week of the season.",
+      "applies_to": [
+        "3-day Upland Game Bird License",
+        "Sage Grouse",
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://fwp.mt.gov/hunt/regulations/upland-game-bird",
+          "label": "Montana FWP upland game bird page",
+          "evidence": "3-day license for nonresidents. The license is not valid for sage grouse at any time or for ring-neck pheasants during the opening week of the season."
+        },
+        {
+          "url": "https://fwp.mt.gov/binaries/content/assets/fwp/hunt/regulations/2025/2025-upgbrd-final-for-web.pdf",
+          "label": "2025 UPLAND GAME BIRD PDF - License Chart",
+          "evidence": "The 3-day Upland Game Bird License is not valid for sage grouse at any time or for ring-neck pheasants during the opening week of the season."
+        }
+      ]
+    }
+  ],
+  "source_url": "https://fwp.mt.gov/hunt/regulations/upland-game-bird",
+  "source_label": "Hunt By Species: Upland Game Birds | Montana FWP",
+  "source_last_updated": null,
+  "source_update_note": "No explicit last-updated date found on source page; page states regulations are typically posted mid July."
+}

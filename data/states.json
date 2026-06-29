@@ -1,0 +1,37 @@
+{
+  "states": [
+    {
+      "id": "MT",
+      "name": "Montana",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/MT_Upland_Gamebird_dataset.json"
+        }
+      ]
+    },
+    {
+      "id": "ND",
+      "name": "North Dakota",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/ND_Upland_Gamebird_dataset.json"
+        }
+      ]
+    },
+    {
+      "id": "SD",
+      "name": "South Dakota",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/SD_Upland_Gamebird_dataset.json"
+        }
+      ]
+    }
+  ]
+}

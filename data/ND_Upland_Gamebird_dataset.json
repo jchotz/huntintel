@@ -1,0 +1,214 @@
+{
+  "state": "North Dakota",
+  "category": "Upland Game Birds",
+  "source_url": "https://gf.nd.gov/hunting/upland",
+  "source_label": "Upland Game | North Dakota Game and Fish",
+  "source_last_updated": null,
+  "source_update_note": "No explicit last-updated date on source page. 2026-27 season dates are tentative until the proclamation is signed (expected late July). 2025-26 data is from the signed proclamation.",
+  "source": {
+    "page_url": "https://gf.nd.gov/hunting/upland",
+    "page_label": "Upland Game | North Dakota Game and Fish",
+    "last_updated": null,
+    "update_note": "No explicit last-updated date on source page. 2026-27 season dates are tentative until the proclamation is signed (expected late July). 2025-26 data is from the signed proclamation.",
+    "scraped_at": "2026-06-19T18:41:23Z"
+  },
+  "species": [
+    {
+      "name": "Hungarian Partridge",
+      "asterisk": false,
+      "season_start": "September 13, 2025",
+      "season_end": "January 4, 2026",
+      "season_raw": "September 13, 2025 - January 4, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "3 daily",
+      "possession_limit": "12"
+    },
+    {
+      "name": "Ring-necked Pheasant",
+      "asterisk": true,
+      "season_start": "October 11, 2025",
+      "season_end": "January 4, 2026",
+      "season_raw": "October 11, 2025 - January 4, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "3 male (rooster) pheasants daily",
+      "possession_limit": "12",
+      "sub_seasons": [
+        {
+          "name": "Youth Season",
+          "season_start": "October 4, 2025",
+          "season_end": "October 5, 2025",
+          "bag_limit": "3 daily",
+          "possession_limit": "12",
+          "note": "Residents and nonresidents age 15 or younger; adult (18+) companion required, companion may not carry firearm or hunt."
+        }
+      ]
+    },
+    {
+      "name": "Sharp-tailed Grouse",
+      "asterisk": true,
+      "season_start": "September 13, 2025",
+      "season_end": "January 4, 2026",
+      "season_raw": "September 13, 2025 - January 4, 2026",
+      "hunting_units": "Statewide (with closed exception area — see key notes)",
+      "bag_limit": "3 daily",
+      "possession_limit": "12"
+    },
+    {
+      "name": "Ruffed Grouse",
+      "asterisk": true,
+      "season_start": "September 13, 2025",
+      "season_end": "January 4, 2026",
+      "season_raw": "September 13, 2025 - January 4, 2026",
+      "hunting_units": "Restricted (Bottineau, Rolette, Cavalier, Pembina, Walsh counties and part of J. Clark Salyer NWR in McHenry County)",
+      "bag_limit": "3 daily",
+      "possession_limit": "12"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Small Game License (age 16+)",
+      "asterisk": true,
+      "covers": "Hungarian Partridge, Pheasant, Sharp-tailed Grouse, Ruffed Grouse, Crow, Doves, Sandhill Cranes, Snipe, Woodcock (Tree Squirrel included in Small Game but listed under separate category)",
+      "resident_cost": "$20.00",
+      "nonresident_cost": "$150.00 (14-consecutive-day or two 7-consecutive-day periods)",
+      "purchase_urls": [
+        {
+          "label": "ND Game & Fish Online License Portal",
+          "url": "https://apps.nd.gov/gnf/onlineservices/lic/public/myGNF.htm"
+        },
+        {
+          "label": "ND Game & Fish Buy and Apply",
+          "url": "https://gf.nd.gov/buy-apply"
+        }
+      ]
+    },
+    {
+      "name": "Small Game License (age 15 or younger)",
+      "asterisk": false,
+      "covers": "Same as adult Small Game License",
+      "resident_cost": "No license fee (certificate + general game & habitat still required)",
+      "nonresident_cost": "No license fee (certificate + general game & habitat still required)",
+      "purchase_urls": [
+        {
+          "label": "ND Game & Fish Online License Portal",
+          "url": "https://apps.nd.gov/gnf/onlineservices/lic/public/myGNF.htm"
+        },
+        {
+          "label": "ND Game & Fish Buy and Apply",
+          "url": "https://gf.nd.gov/buy-apply"
+        }
+      ]
+    },
+    {
+      "name": "Fishing, Hunting, Furbearer Certificate (prerequisite)",
+      "asterisk": false,
+      "covers": "Required annually for all hunters",
+      "resident_cost": "$2.00",
+      "nonresident_cost": "$5.00",
+      "purchase_urls": [
+        {
+          "label": "ND Game & Fish Online License Portal",
+          "url": "https://apps.nd.gov/gnf/onlineservices/lic/public/myGNF.htm"
+        },
+        {
+          "label": "ND Game & Fish Buy and Apply",
+          "url": "https://gf.nd.gov/buy-apply"
+        }
+      ]
+    },
+    {
+      "name": "General Game and Habitat License (prerequisite)",
+      "asterisk": false,
+      "covers": "Required annually for all hunting except furbearer",
+      "resident_cost": "$20.00",
+      "nonresident_cost": "$20.00",
+      "purchase_urls": [
+        {
+          "label": "ND Game & Fish Online License Portal",
+          "url": "https://apps.nd.gov/gnf/onlineservices/lic/public/myGNF.htm"
+        },
+        {
+          "label": "ND Game & Fish Buy and Apply",
+          "url": "https://gf.nd.gov/buy-apply"
+        }
+      ]
+    }
+  ],
+  "key_notes": [
+    {
+      "title": "Nonresidents may not hunt any game during the first 7 days of the regular pheasant season.",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://gf.nd.gov/hunting/pheasant",
+          "label": "ND Game & Fish — Pheasant hunting page",
+          "evidence": "In accordance with NDCC 20.1-08-04.9, nonresidents shall be prohibited from hunting from October [first seven days of regular season]."
+        },
+        {
+          "url": "https://gf.nd.gov/gnf/regulations/docs/combination/proc-combination-2025.pdf",
+          "label": "2025-2026 Small Game, Waterfowl and Furbearer Proclamation — Section 12",
+          "evidence": "Male pheasants may be taken statewide from October 11, 2025 through January 4, 2026."
+        }
+      ]
+    },
+    {
+      "title": "Youth pheasant season (2 days) requires a non-hunting adult companion age 18+.",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://gf.nd.gov/gnf/regulations/docs/combination/proc-combination-2025.pdf",
+          "label": "2025-2026 Small Game, Waterfowl and Furbearer Proclamation — Section 12, Youth Pheasant Season",
+          "evidence": "An adult, at least 18 years of age, must accompany the youth pheasant hunter into the field. Any adult accompanying the youth into the field may not carry a firearm and may not hunt any species of wildlife."
+        }
+      ]
+    },
+    {
+      "title": "A specific area in southeastern ND is closed to sharp-tailed grouse hunting.",
+      "applies_to": [
+        "Sharp-tailed Grouse"
+      ],
+      "sources": [
+        {
+          "url": "https://gf.nd.gov/gnf/regulations/docs/combination/proc-combination-2025.pdf",
+          "label": "2025-2026 Small Game, Waterfowl and Furbearer Proclamation — Section 14",
+          "evidence": "That portion of North Dakota bordered on the west by ND Highway 32, on the north by the Sheyenne River, on the south ND Highway 11 and on the east by the Red and Bois de Sioux Rivers shall be closed to sharp-tailed grouse hunting."
+        },
+        {
+          "url": "https://gf.nd.gov/hunting/sharp-tailed-grouse",
+          "label": "ND Game & Fish — Sharp-tailed Grouse page",
+          "evidence": "Sharp-tailed grouse are very similar to greater prairie-chicken which are not legal to hunt. Learn how to differentiate the two species before going into the field."
+        }
+      ]
+    },
+    {
+      "title": "Ruffed grouse season is restricted to 5 specific counties and part of J. Clark Salyer NWR — not statewide.",
+      "applies_to": [
+        "Ruffed Grouse"
+      ],
+      "sources": [
+        {
+          "url": "https://gf.nd.gov/gnf/regulations/docs/combination/proc-combination-2025.pdf",
+          "label": "2025-2026 Small Game, Waterfowl and Furbearer Proclamation — Section 16",
+          "evidence": "Ruffed grouse may be taken in Bottineau, Rolette, Cavalier, Pembina, and Walsh counties and that portion of J. Clark Salyer National Wildlife Refuge in McHenry County south of the Upham-Willow City road from September 13, 2025 through January 4, 2026."
+        }
+      ]
+    },
+    {
+      "title": "Nonresident small game license is limited to 14-consecutive-day or two 7-consecutive-day periods per purchase.",
+      "applies_to": [
+        "Small Game License (age 16+)"
+      ],
+      "sources": [
+        {
+          "url": "https://gf.nd.gov/licensing/nonresident",
+          "label": "ND Game & Fish — Nonresident Licensing",
+          "evidence": "A nonresident must choose between a 14-consecutive-day or two 7-consecutive-day license periods and may purchase more than one license per year."
+        }
+      ]
+    }
+  ]
+}

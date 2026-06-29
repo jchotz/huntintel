@@ -1,0 +1,352 @@
+{
+  "state": "South Dakota",
+  "category": "Upland Game Birds",
+  "source_url": "https://gfp.sd.gov/hunt/",
+  "source_label": "Hunting in South Dakota | South Dakota GFP",
+  "source_last_updated": null,
+  "source_update_note": "No explicit last-updated date found. Page footer reads © Copyright 2026 State of South Dakota. Regulations sourced from 2025 South Dakota Hunting and Trapping Handbook (valid through Jan. 31, 2026 for 2025 licenses; Jan. 31, 2027 for 2026 licenses).",
+  "source": {
+    "page_url": "https://gfp.sd.gov/hunt/",
+    "page_label": "Hunt | Hunting | South Dakota Game, Fish, and Parks",
+    "last_updated": null,
+    "update_note": "No explicit last-updated date found. Page footer reads © Copyright 2026 State of South Dakota. Regulations sourced from 2025 South Dakota Hunting and Trapping Handbook (valid through Jan. 31, 2026 for 2025 licenses; Jan. 31, 2027 for 2026 licenses).",
+    "scraped_at": "2026-06-19T18:41:22Z"
+  },
+  "species": [
+    {
+      "name": "Ring-necked Pheasant",
+      "asterisk": false,
+      "season_start": "October 18, 2025",
+      "season_end": "January 31, 2026",
+      "season_raw": "Oct. 18 – Jan. 31",
+      "hunting_units": "Statewide (some game bird refuges open Dec. 1 or Dec. 8)",
+      "bag_limit": "3 roosters daily",
+      "possession_limit": "15 roosters",
+      "sub_seasons": [
+        {
+          "name": "Youth Season",
+          "season_start": "September 27, 2025",
+          "season_end": "October 5, 2025",
+          "bag_limit": "3 roosters daily",
+          "possession_limit": "15 roosters",
+          "note": "Ages 12–17; youth under 16 must be accompanied by an unarmed adult; 10 a.m. CT opener."
+        },
+        {
+          "name": "Resident-Only Season",
+          "season_start": "October 11, 2025",
+          "season_end": "October 13, 2025",
+          "bag_limit": "3 roosters daily",
+          "possession_limit": "9 roosters",
+          "note": "South Dakota residents only; public lands only; 10 a.m. CT opener."
+        }
+      ]
+    },
+    {
+      "name": "Prairie Chicken, Sharp-tailed & Ruffed Grouse",
+      "asterisk": false,
+      "season_start": "September 20, 2025",
+      "season_end": "January 31, 2026",
+      "season_raw": "Sept. 20 – Jan. 31",
+      "hunting_units": "Statewide",
+      "bag_limit": "3 (any combination)",
+      "possession_limit": "15 (any combination)",
+      "sub_seasons": []
+    },
+    {
+      "name": "Greater Sage Grouse",
+      "asterisk": false,
+      "season_start": null,
+      "season_end": null,
+      "season_raw": "SEASON CLOSED",
+      "hunting_units": null,
+      "bag_limit": null,
+      "possession_limit": null,
+      "sub_seasons": []
+    },
+    {
+      "name": "Partridge (Gray/Hungarian) & Chukar",
+      "asterisk": false,
+      "season_start": "September 20, 2025",
+      "season_end": "January 31, 2026",
+      "season_raw": "Sept. 20 – Jan. 31",
+      "hunting_units": "Statewide",
+      "bag_limit": "5 (any combination)",
+      "possession_limit": "15 (any combination)",
+      "sub_seasons": []
+    },
+    {
+      "name": "Quail",
+      "asterisk": false,
+      "season_start": "October 18, 2025",
+      "season_end": "January 31, 2026",
+      "season_raw": "Oct. 18 – Jan. 31",
+      "hunting_units": "Statewide",
+      "bag_limit": "5 (any combination)",
+      "possession_limit": "15 (any combination)",
+      "sub_seasons": []
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Habitat Stamp",
+      "asterisk": false,
+      "covers": "Required for all hunters age 18+ before purchasing any hunting license (one per license year). Not required for 1-day, youth, or mentored licenses.",
+      "resident_cost": "$10",
+      "nonresident_cost": "$25",
+      "purchase_urls": [
+        {
+          "label": "Purchase — Go Outdoors South Dakota",
+          "url": "https://license.gooutdoorssouthdakota.com/Licensing/CustomerLookup.aspx"
+        },
+        {
+          "label": "SD GFP Licenses Page",
+          "url": "https://gfp.sd.gov/hunt-fish-license/"
+        }
+      ]
+    },
+    {
+      "name": "Small Game License*",
+      "asterisk": true,
+      "covers": "Pheasant, grouse, partridge, quail, cottontail rabbit, tree squirrel, and predator/varmint species. Full season for residents.",
+      "resident_cost": "$36",
+      "nonresident_cost": "$142 (10-day, two 5-day periods)",
+      "purchase_urls": [
+        {
+          "label": "Purchase — Go Outdoors South Dakota",
+          "url": "https://license.gooutdoorssouthdakota.com/Licensing/CustomerLookup.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Resident Combination (Small Game + Fishing)*",
+      "asterisk": true,
+      "covers": "Residents 18+: small game hunting and fishing privileges combined.",
+      "resident_cost": "$60",
+      "nonresident_cost": "N/A",
+      "purchase_urls": [
+        {
+          "label": "Purchase — Go Outdoors South Dakota",
+          "url": "https://license.gooutdoorssouthdakota.com/Licensing/CustomerLookup.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Resident Senior Combination (65+)*",
+      "asterisk": true,
+      "covers": "Same privileges as Combination license; for residents age 65 or older.",
+      "resident_cost": "$43",
+      "nonresident_cost": "N/A",
+      "purchase_urls": [
+        {
+          "label": "Purchase — Go Outdoors South Dakota",
+          "url": "https://license.gooutdoorssouthdakota.com/Licensing/CustomerLookup.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Resident 1-Day Small Game",
+      "asterisk": false,
+      "covers": "Residents 18+; one daily limit per species; no Habitat Stamp required.",
+      "resident_cost": "$15",
+      "nonresident_cost": "N/A",
+      "purchase_urls": [
+        {
+          "label": "Purchase — Go Outdoors South Dakota",
+          "url": "https://license.gooutdoorssouthdakota.com/Licensing/CustomerLookup.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Youth Small Game (ages 12–17)",
+      "asterisk": false,
+      "covers": "Resident and nonresident youth ages 12–17; no Habitat Stamp required.",
+      "resident_cost": "$5",
+      "nonresident_cost": "$10 (10-day, two 5-day periods)",
+      "purchase_urls": [
+        {
+          "label": "Purchase — Go Outdoors South Dakota",
+          "url": "https://license.gooutdoorssouthdakota.com/Licensing/CustomerLookup.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Mentored Small Game (under age 16)",
+      "asterisk": false,
+      "covers": "Youth under 16 hunting with an unarmed adult mentor; no Habitat Stamp required.",
+      "resident_cost": "$5",
+      "nonresident_cost": "$10 (10-day, two 5-day periods)",
+      "purchase_urls": [
+        {
+          "label": "Purchase — Go Outdoors South Dakota",
+          "url": "https://license.gooutdoorssouthdakota.com/Licensing/CustomerLookup.aspx"
+        }
+      ]
+    },
+    {
+      "name": "NR Shooting Preserve — 1-Day*",
+      "asterisk": true,
+      "covers": "Nonresident small game hunting on licensed shooting preserves; one day.",
+      "resident_cost": "N/A",
+      "nonresident_cost": "$50",
+      "purchase_urls": [
+        {
+          "label": "Purchase — Go Outdoors South Dakota",
+          "url": "https://license.gooutdoorssouthdakota.com/Licensing/CustomerLookup.aspx"
+        }
+      ]
+    },
+    {
+      "name": "NR Shooting Preserve — 5-Day*",
+      "asterisk": true,
+      "covers": "Nonresident small game on licensed shooting preserves; five days.",
+      "resident_cost": "N/A",
+      "nonresident_cost": "$96",
+      "purchase_urls": [
+        {
+          "label": "Purchase — Go Outdoors South Dakota",
+          "url": "https://license.gooutdoorssouthdakota.com/Licensing/CustomerLookup.aspx"
+        }
+      ]
+    },
+    {
+      "name": "NR Shooting Preserve — Season*",
+      "asterisk": true,
+      "covers": "Nonresident small game on licensed shooting preserves; full season.",
+      "resident_cost": "N/A",
+      "nonresident_cost": "$146",
+      "purchase_urls": [
+        {
+          "label": "Purchase — Go Outdoors South Dakota",
+          "url": "https://license.gooutdoorssouthdakota.com/Licensing/CustomerLookup.aspx"
+        }
+      ]
+    }
+  ],
+  "key_notes": [
+    {
+      "title": "Rooster-Only Rule — All Pheasant Seasons",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/pheasant/",
+          "label": "SD GFP Pheasant Page",
+          "evidence": "Only male (rooster) pheasants may be harvested; hens are fully protected across all seasons."
+        }
+      ]
+    },
+    {
+      "title": "Pheasant Shooting Hours Start at 10 a.m. CT",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/UserDocs/nav/HuntingandTrappingHandbook_2025_WEBUPDATE.pdf",
+          "label": "2025 SD Hunting and Trapping Handbook (pp. 26–29)",
+          "evidence": "\"Shooting hours: 10 a.m., Central Time, to sunset.\" Unique restriction — does not follow sunrise rule."
+        }
+      ]
+    },
+    {
+      "title": "Grouse, Partridge & Quail: Sunrise to Sunset",
+      "applies_to": [
+        "Prairie Chicken, Sharp-tailed & Ruffed Grouse",
+        "Partridge (Gray/Hungarian) & Chukar",
+        "Quail"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/UserDocs/nav/HuntingandTrappingHandbook_2025_WEBUPDATE.pdf",
+          "label": "2025 SD Hunting and Trapping Handbook",
+          "evidence": "Shooting hours: Sunrise to sunset statewide for prairie grouse, ruffed grouse, partridge/chukar, and quail."
+        }
+      ]
+    },
+    {
+      "title": "Sage Grouse Season Closed — Population Below Threshold",
+      "applies_to": [
+        "Greater Sage Grouse"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/sage-grouse/",
+          "label": "SD GFP Sage Grouse Page",
+          "evidence": "Season closed. Minimum threshold is 300 males on all leks for two consecutive years before a resident-only season will be considered. 2024 count: 94 males on 17 leks."
+        }
+      ]
+    },
+    {
+      "title": "Non-Toxic Shot Required on Most Public Lands",
+      "applies_to": [
+        "Ring-necked Pheasant",
+        "Prairie Chicken, Sharp-tailed & Ruffed Grouse",
+        "Partridge (Gray/Hungarian) & Chukar",
+        "Quail"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/UserDocs/nav/HuntingandTrappingHandbook_2025_WEBUPDATE.pdf",
+          "label": "2025 SD Hunting and Trapping Handbook",
+          "evidence": "Non-toxic shot is required to hunt small game on most public lands (WPAs, National Grasslands, and other designated public lands)."
+        }
+      ]
+    },
+    {
+      "title": "Nonresident Small Game Limited to Two 5-Day Periods",
+      "applies_to": [
+        "Ring-necked Pheasant",
+        "Prairie Chicken, Sharp-tailed & Ruffed Grouse",
+        "Partridge (Gray/Hungarian) & Chukar",
+        "Quail"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/license-types/",
+          "label": "SD GFP License Types & Costs",
+          "evidence": "Nonresident Small Game license is described as '10-days, two 5-day periods' — not a full-season license."
+        }
+      ]
+    },
+    {
+      "title": "Youth Under 16 Must Be Accompanied by Unarmed Adult",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/pheasant/",
+          "label": "SD GFP Pheasant Page",
+          "evidence": "All youth hunters under age 16 must be accompanied by an unarmed adult during the youth pheasant season."
+        }
+      ]
+    },
+    {
+      "title": "Resident-Only Pheasant Season — Public Lands Only (Oct. 11–13)",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/UserDocs/nav/HuntingandTrappingHandbook_2025_WEBUPDATE.pdf",
+          "label": "2025 SD Hunting and Trapping Handbook (pp. 27–28)",
+          "evidence": "The 3-day early resident-only season is restricted to public lands statewide and is not open to nonresidents. Possession limit is reduced to 9 birds."
+        }
+      ]
+    },
+    {
+      "title": "Game Bird Refuges Have Later Opening Dates",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/UserDocs/nav/HuntingandTrappingHandbook_2025_WEBUPDATE.pdf",
+          "label": "2025 SD Hunting and Trapping Handbook",
+          "evidence": "Renziehausen GPA, Gerken GBR, and White Lake GBR open Dec. 1 – Jan. 31. Sand Lake NWR (Brown County) opens Dec. 8 – Jan. 31."
+        }
+      ]
+    }
+  ]
+}
