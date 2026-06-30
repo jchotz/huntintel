@@ -1,6 +1,17 @@
 {
   "states": [
     {
+      "id": "IA",
+      "name": "Iowa",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/IA_Upland_Gamebird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "KS",
       "name": "Kansas",
       "categories": [
