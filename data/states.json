@@ -43,6 +43,17 @@
           "dataFile": "data/SD_Upland_Gamebird_dataset.json"
         }
       ]
+    },
+    {
+      "id": "WY",
+      "name": "Wyoming",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/WY_Upland_Gamebird_dataset.json"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,324 @@
+{
+  "state": "Wyoming",
+  "category": "Upland Game Birds",
+  "source": {
+    "page_url": "https://wgfd.wyo.gov/Regulations/Game-Birds-Waterfowl/Upland-Game-Bird-and-Small-Game-Hunting-Seasons",
+    "page_label": "Upland Game Bird and Small Game Hunting Seasons | WGFD",
+    "last_updated": null,
+    "update_note": "2026 season data from the official Wyoming Game & Fish Chapter 11 regulation (April 2026). The WGFD regulation page lists the PDF but provides no explicit last-updated date on the HTML page itself.",
+    "scraped_at": "2026-06-30T15:35:17Z"
+  },
+  "species": [
+    {
+      "name": "Sage Grouse",
+      "asterisk": true,
+      "season_start": "September 19, 2026",
+      "season_end": "September 30, 2026",
+      "season_raw": "September 19 - September 30, 2026",
+      "hunting_units": "Hunt Area 1 only (areas 2, 3, 4 closed)",
+      "bag_limit": "2 daily",
+      "possession_limit": "4"
+    },
+    {
+      "name": "Blue (Dusky) Grouse",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "December 31, 2026",
+      "season_raw": "September 1 - December 31, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "3 daily",
+      "possession_limit": "9"
+    },
+    {
+      "name": "Ruffed Grouse",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "December 31, 2026",
+      "season_raw": "September 1 - December 31, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "3 daily",
+      "possession_limit": "9"
+    },
+    {
+      "name": "Chukar Partridge",
+      "asterisk": false,
+      "season_start": "September 15, 2026",
+      "season_end": "January 31, 2027",
+      "season_raw": "September 15, 2026 - January 31, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "5 daily",
+      "possession_limit": "15"
+    },
+    {
+      "name": "Gray (Hungarian) Partridge",
+      "asterisk": false,
+      "season_start": "September 15, 2026",
+      "season_end": "January 31, 2027",
+      "season_raw": "September 15, 2026 - January 31, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "5 daily",
+      "possession_limit": "15"
+    },
+    {
+      "name": "Sharp-tailed Grouse",
+      "asterisk": true,
+      "season_start": "September 1, 2026",
+      "season_end": "December 31, 2026",
+      "season_raw": "September 1 - December 31, 2026",
+      "hunting_units": "East of Continental Divide only",
+      "bag_limit": "3 daily",
+      "possession_limit": "9"
+    },
+    {
+      "name": "Ring-necked Pheasant",
+      "asterisk": true,
+      "season_start": "November 1, 2026",
+      "season_end": "December 31, 2026",
+      "season_raw": "November 1 - December 31, 2026",
+      "hunting_units": "Multiple hunt areas with varying rules (see key notes)",
+      "bag_limit": "3 male (rooster) pheasants daily (varies by area)",
+      "possession_limit": "9 (varies by area)"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Game Bird/Small Game 12-Month License",
+      "asterisk": true,
+      "covers": "All upland game birds and small game for 12 months",
+      "resident_cost": "$27.00",
+      "nonresident_cost": "$74.00",
+      "purchase_urls": [
+        {
+          "label": "Wyoming Game & Fish — License Fee List",
+          "url": "https://wgfd.wyo.gov/licenses-applications/license-fee-list"
+        },
+        {
+          "label": "Wyoming Game & Fish — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        },
+        {
+          "label": "Wyoming Online License Portal (ELSO)",
+          "url": "https://wgfapps.wyo.gov/elso/ELSOSportspersonLoginSSN.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Game Bird/Small Game Daily License",
+      "asterisk": false,
+      "covers": "All upland game birds and small game for 1 day",
+      "resident_cost": "$9.00",
+      "nonresident_cost": "$22.00",
+      "purchase_urls": [
+        {
+          "label": "Wyoming Game & Fish — License Fee List",
+          "url": "https://wgfd.wyo.gov/licenses-applications/license-fee-list"
+        },
+        {
+          "label": "Wyoming Game & Fish — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        },
+        {
+          "label": "Wyoming Online License Portal (ELSO)",
+          "url": "https://wgfapps.wyo.gov/elso/ELSOSportspersonLoginSSN.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident Game Bird/Small Game Youth License",
+      "asterisk": false,
+      "covers": "All upland game birds and small game (youth)",
+      "resident_cost": null,
+      "nonresident_cost": "$40.00",
+      "purchase_urls": [
+        {
+          "label": "Wyoming Game & Fish — License Fee List",
+          "url": "https://wgfd.wyo.gov/licenses-applications/license-fee-list"
+        },
+        {
+          "label": "Wyoming Game & Fish — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        },
+        {
+          "label": "Wyoming Online License Portal (ELSO)",
+          "url": "https://wgfapps.wyo.gov/elso/ELSOSportspersonLoginSSN.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Game Bird Only 12-Month License (Resident)",
+      "asterisk": false,
+      "covers": "Game birds only (birds, not small game mammals)",
+      "resident_cost": "$16.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Wyoming Game & Fish — License Fee List",
+          "url": "https://wgfd.wyo.gov/licenses-applications/license-fee-list"
+        },
+        {
+          "label": "Wyoming Game & Fish — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        },
+        {
+          "label": "Wyoming Online License Portal (ELSO)",
+          "url": "https://wgfapps.wyo.gov/elso/ELSOSportspersonLoginSSN.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Small Game Only 12-Month License (Resident)",
+      "asterisk": false,
+      "covers": "Small game mammals only (not game birds)",
+      "resident_cost": "$16.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Wyoming Game & Fish — License Fee List",
+          "url": "https://wgfd.wyo.gov/licenses-applications/license-fee-list"
+        },
+        {
+          "label": "Wyoming Game & Fish — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        },
+        {
+          "label": "Wyoming Online License Portal (ELSO)",
+          "url": "https://wgfapps.wyo.gov/elso/ELSOSportspersonLoginSSN.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Conservation Stamp",
+      "asterisk": true,
+      "covers": "Required annually for all hunters",
+      "resident_cost": "$21.50",
+      "nonresident_cost": "$21.50",
+      "purchase_urls": [
+        {
+          "label": "Wyoming Game & Fish — License Fee List",
+          "url": "https://wgfd.wyo.gov/licenses-applications/license-fee-list"
+        },
+        {
+          "label": "Wyoming Game & Fish — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        },
+        {
+          "label": "Wyoming Online License Portal (ELSO)",
+          "url": "https://wgfapps.wyo.gov/elso/ELSOSportspersonLoginSSN.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Sage Grouse Hunting Permit",
+      "asterisk": true,
+      "covers": "Required for hunting sage grouse in any hunt area",
+      "resident_cost": "Free",
+      "nonresident_cost": "Free",
+      "purchase_urls": [
+        {
+          "label": "Wyoming Game & Fish — License Fee List",
+          "url": "https://wgfd.wyo.gov/licenses-applications/license-fee-list"
+        },
+        {
+          "label": "Wyoming Game & Fish — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        },
+        {
+          "label": "Wyoming Online License Portal (ELSO)",
+          "url": "https://wgfapps.wyo.gov/elso/ELSOSportspersonLoginSSN.aspx"
+        }
+      ]
+    }
+  ],
+  "key_notes": [
+    {
+      "title": "Sage grouse hunting requires a free Sage Grouse Hunting Permit in addition to a valid hunting license and conservation stamp.",
+      "applies_to": [
+        "Sage Grouse"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/Regulations/Game-Birds-Waterfowl/Upland-Game-Bird-and-Small-Game-Hunting-Seasons",
+          "label": "WGFD — Upland Game Bird and Small Game Hunting Seasons",
+          "evidence": "Permit required for any licensed hunter hunting sage grouse. Must be in possession and produced on demand."
+        },
+        {
+          "url": "https://wgfd.wyo.gov/media/33698/download?inline",
+          "label": "2026 Wyoming Chapter 11 — Upland Game Bird and Small Game Hunting Seasons — Section 2(a)",
+          "evidence": "Permit required for any licensed hunter hunting sage grouse. Must be in possession and produced on demand."
+        }
+      ]
+    },
+    {
+      "title": "Sage grouse is only open in Hunt Area 1; Hunt Areas 2, 3, and 4 are closed.",
+      "applies_to": [
+        "Sage Grouse"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/media/33698/download?inline",
+          "label": "2026 Wyoming Chapter 11 — Upland Game Bird and Small Game Hunting Seasons — Section 2(a)",
+          "evidence": "Sage Grouse Area 1: Sep 19 - Sep 30, 2 daily / 4 possession. Areas 2, 3, 4: CLOSED."
+        }
+      ]
+    },
+    {
+      "title": "Sharp-tailed grouse may only be hunted east of the Continental Divide.",
+      "applies_to": [
+        "Sharp-tailed Grouse"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/media/33698/download?inline",
+          "label": "2026 Wyoming Chapter 11 — Upland Game Bird and Small Game Hunting Seasons — Section 2(f)",
+          "evidence": "Sharp-tailed Grouse Area 1: Portion of Wyoming east of the Continental Divide."
+        }
+      ]
+    },
+    {
+      "title": "Pheasant: males only in most areas; evidence of sex (feathered head, feathered wing, or foot) must remain naturally attached.",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/media/33698/download?inline",
+          "label": "2026 Wyoming Chapter 11 — Upland Game Bird and Small Game Hunting Seasons — Section 1(c)",
+          "evidence": "Pheasant — feathered head, feathered wing, or foot must remain naturally attached."
+        },
+        {
+          "url": "https://wgfd.wyo.gov/media/33698/download?inline",
+          "label": "2026 Wyoming Chapter 11 — Upland Game Bird and Small Game Hunting Seasons — Section 2(g)",
+          "evidence": "Pheasant Area 1: Male only. Area 2 (Nov 1-30): Any pheasant (youth). Area 2 (Dec 1-31): Male only."
+        }
+      ]
+    },
+    {
+      "title": "Pheasant shooting hours vary by area: restricted to 8:00 a.m. start on weekends in some areas and 11:00 a.m. weekday start in Area 5.",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/media/33698/download?inline",
+          "label": "2026 Wyoming Chapter 11 — Upland Game Bird and Small Game Hunting Seasons — Section 2(g)",
+          "evidence": "Area 1: 1/2 hr before sunrise - sunset (weekdays); 8:00 a.m. - sunset (weekends). Area 5: Veterans Day, Thanksgiving, Christmas, weekends: 1/2 hr before sunrise - sunset; weekdays: 11:00 a.m. - sunset."
+        }
+      ]
+    },
+    {
+      "title": "A Conservation Stamp ($21.50) is required for all hunters in addition to a hunting license.",
+      "applies_to": [
+        "Game Bird/Small Game 12-Month License",
+        "Game Bird/Small Game Daily License",
+        "Nonresident Game Bird/Small Game Youth License"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/licenses-applications/license-fee-list",
+          "label": "WGFD — License Fee List",
+          "evidence": "Conservation Stamp: $21.50 (resident and nonresident). All hunters must possess a valid conservation stamp."
+        }
+      ]
+    }
+  ]
+}
