@@ -1,0 +1,494 @@
+{
+  "state": "Texas",
+  "category": "Migratory Birds",
+  "source": {
+    "page_url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/2026-2027-hunting-season-dates",
+    "page_label": "2026-2027 Hunting Season Dates | TPWD",
+    "last_updated": null,
+    "update_note": "2026-27 migratory game bird data from TPWD Outdoor Annual season dates page. The TPW Commission approved 2026-27 migratory bird seasons on April 1, 2026. Key change: South Zone dove now opens Sept 1 (previously Sept 14), eliminating Special White-winged Dove Days.",
+    "scraped_at": "2026-06-30T20:55:59Z"
+  },
+  "species": [
+    {
+      "name": "Dove",
+      "asterisk": true,
+      "season_start": "September 1, 2026",
+      "season_end": "January 21, 2027",
+      "season_raw": "See zones below for split season dates",
+      "hunting_units": "North, Central, and South Zones (see sub-seasons)",
+      "bag_limit": "15 daily (mourning & white-winged in aggregate)",
+      "possession_limit": "45",
+      "sub_seasons": [
+        {
+          "name": "North Zone — Segment 1",
+          "season_start": "September 1, 2026",
+          "season_end": "November 8, 2026",
+          "bag_limit": "15 daily",
+          "possession_limit": "45"
+        },
+        {
+          "name": "North Zone — Segment 2",
+          "season_start": "December 18, 2026",
+          "season_end": "January 7, 2027",
+          "bag_limit": "15 daily",
+          "possession_limit": "45"
+        },
+        {
+          "name": "Central Zone — Segment 1",
+          "season_start": "September 1, 2026",
+          "season_end": "October 25, 2026",
+          "bag_limit": "15 daily",
+          "possession_limit": "45"
+        },
+        {
+          "name": "Central Zone — Segment 2",
+          "season_start": "December 11, 2026",
+          "season_end": "January 14, 2027",
+          "bag_limit": "15 daily",
+          "possession_limit": "45"
+        },
+        {
+          "name": "South Zone — Segment 1",
+          "season_start": "September 1, 2026",
+          "season_end": "October 25, 2026",
+          "bag_limit": "15 daily",
+          "possession_limit": "45"
+        },
+        {
+          "name": "South Zone — Segment 2",
+          "season_start": "December 18, 2026",
+          "season_end": "January 21, 2027",
+          "bag_limit": "15 daily",
+          "possession_limit": "45"
+        }
+      ]
+    },
+    {
+      "name": "Teal (September Teal)",
+      "asterisk": false,
+      "season_start": "September 19, 2026",
+      "season_end": "September 27, 2026",
+      "season_raw": "September 19, 2026 - September 27, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "6 daily (blue-winged, green-winged, cinnamon teal in aggregate)",
+      "possession_limit": "18"
+    },
+    {
+      "name": "Duck",
+      "asterisk": true,
+      "season_start": "October 24, 2026",
+      "season_end": "January 31, 2027",
+      "season_raw": "See zones below for split season dates",
+      "hunting_units": "High Plains, North, and South Zones (see sub-seasons)",
+      "bag_limit": "6 daily in aggregate (species restrictions apply)",
+      "possession_limit": "18",
+      "sub_seasons": [
+        {
+          "name": "High Plains Mallard Mgmt Unit — Segment 1",
+          "season_start": "October 24, 2026",
+          "season_end": "October 25, 2026",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "High Plains Mallard Mgmt Unit — Segment 2",
+          "season_start": "October 30, 2026",
+          "season_end": "January 31, 2027",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "North Zone — Segment 1",
+          "season_start": "November 14, 2026",
+          "season_end": "November 29, 2026",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "North Zone — Segment 2",
+          "season_start": "December 5, 2026",
+          "season_end": "January 31, 2027",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "South Zone — Segment 1",
+          "season_start": "November 7, 2026",
+          "season_end": "November 29, 2026",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "South Zone — Segment 2",
+          "season_start": "December 12, 2026",
+          "season_end": "January 31, 2027",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        }
+      ]
+    },
+    {
+      "name": "Goose",
+      "asterisk": true,
+      "season_start": "September 12, 2026",
+      "season_end": "February 19, 2027",
+      "season_raw": "See zones below for species-specific dates",
+      "hunting_units": "West and East Zones (see sub-seasons)",
+      "bag_limit": "Varies by species and zone (see sub-seasons)",
+      "possession_limit": "Three times daily bag",
+      "sub_seasons": [
+        {
+          "name": "Early Canada Goose — East Zone",
+          "season_start": "September 12, 2026",
+          "season_end": "September 27, 2026",
+          "bag_limit": "5 daily Canada geese",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Dark Geese — West Zone",
+          "season_start": "November 7, 2026",
+          "season_end": "February 7, 2027",
+          "bag_limit": "5 daily dark geese",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Dark Geese — East Zone",
+          "season_start": "November 7, 2026",
+          "season_end": "January 31, 2027",
+          "bag_limit": "5 daily dark geese",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Light Geese — West Zone",
+          "season_start": "November 7, 2026",
+          "season_end": "February 7, 2027",
+          "bag_limit": "No daily limit on light geese",
+          "possession_limit": "No possession limit"
+        },
+        {
+          "name": "Light Geese — East Zone",
+          "season_start": "November 7, 2026",
+          "season_end": "February 19, 2027",
+          "bag_limit": "No daily limit on light geese",
+          "possession_limit": "No possession limit"
+        }
+      ]
+    },
+    {
+      "name": "Rails, Gallinules & Moorhens",
+      "asterisk": false,
+      "season_start": "September 19, 2026",
+      "season_end": "January 6, 2027",
+      "season_raw": "September 19-27, 2026 and November 7, 2026 - January 6, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "25 daily (rails & gallinules in aggregate)",
+      "possession_limit": "75",
+      "sub_seasons": [
+        {
+          "name": "Segment 1",
+          "season_start": "September 19, 2026",
+          "season_end": "September 27, 2026",
+          "bag_limit": "25 daily",
+          "possession_limit": "75"
+        },
+        {
+          "name": "Segment 2",
+          "season_start": "November 7, 2026",
+          "season_end": "January 6, 2027",
+          "bag_limit": "25 daily",
+          "possession_limit": "75"
+        }
+      ]
+    },
+    {
+      "name": "Sandhill Crane",
+      "asterisk": true,
+      "season_start": "October 31, 2026",
+      "season_end": "January 31, 2027",
+      "season_raw": "See zones below for dates",
+      "hunting_units": "Zones A, B, and C (see sub-seasons)",
+      "bag_limit": "3 daily",
+      "possession_limit": "9",
+      "sub_seasons": [
+        {
+          "name": "Zone A",
+          "season_start": "October 31, 2026",
+          "season_end": "January 31, 2027",
+          "bag_limit": "3 daily",
+          "possession_limit": "9"
+        },
+        {
+          "name": "Zone B",
+          "season_start": "November 27, 2026",
+          "season_end": "January 31, 2027",
+          "bag_limit": "3 daily",
+          "possession_limit": "9"
+        },
+        {
+          "name": "Zone C",
+          "season_start": "December 12, 2026",
+          "season_end": "January 17, 2027",
+          "bag_limit": "3 daily",
+          "possession_limit": "9"
+        }
+      ]
+    },
+    {
+      "name": "Snipe",
+      "asterisk": false,
+      "season_start": "November 7, 2026",
+      "season_end": "February 21, 2027",
+      "season_raw": "November 7, 2026 - February 21, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "8 daily",
+      "possession_limit": "24"
+    },
+    {
+      "name": "Woodcock",
+      "asterisk": false,
+      "season_start": "December 18, 2026",
+      "season_end": "January 31, 2027",
+      "season_raw": "December 18, 2026 - January 31, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "3 daily",
+      "possession_limit": "9"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Resident Hunting License",
+      "asterisk": true,
+      "covers": "Any legal bird/animal (terrestrial vertebrates); valid to Aug 31",
+      "resident_cost": "$25.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Texas License Sales Portal",
+          "url": "https://www.txfgsales.com/"
+        },
+        {
+          "label": "TPWD — Outdoor Annual Hunting Licenses",
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-licenses"
+        }
+      ]
+    },
+    {
+      "name": "Non-resident General Hunting License",
+      "asterisk": true,
+      "covers": "Any legal bird/animal including deer; valid to Aug 31",
+      "resident_cost": null,
+      "nonresident_cost": "$315.00",
+      "purchase_urls": [
+        {
+          "label": "Texas License Sales Portal",
+          "url": "https://www.txfgsales.com/"
+        },
+        {
+          "label": "TPWD — Outdoor Annual Hunting Licenses",
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-licenses"
+        }
+      ]
+    },
+    {
+      "name": "Non-resident Special 5-Day Small Game/Exotic Hunting License",
+      "asterisk": false,
+      "covers": "Exotic animals and small game for 5 consecutive days",
+      "resident_cost": null,
+      "nonresident_cost": "$48.00",
+      "purchase_urls": [
+        {
+          "label": "Texas License Sales Portal",
+          "url": "https://www.txfgsales.com/"
+        },
+        {
+          "label": "TPWD — Outdoor Annual Hunting Licenses",
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-licenses"
+        }
+      ]
+    },
+    {
+      "name": "Senior Resident Hunting License (age 65+)",
+      "asterisk": false,
+      "covers": "Same as Resident Hunting License for seniors",
+      "resident_cost": "$7.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Texas License Sales Portal",
+          "url": "https://www.txfgsales.com/"
+        },
+        {
+          "label": "TPWD — Outdoor Annual Hunting Licenses",
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-licenses"
+        }
+      ]
+    },
+    {
+      "name": "Youth Hunting License (under age 17)",
+      "asterisk": false,
+      "covers": "Hunting license valid for any legal bird/animal",
+      "resident_cost": "$7.00",
+      "nonresident_cost": "$7.00",
+      "purchase_urls": [
+        {
+          "label": "Texas License Sales Portal",
+          "url": "https://www.txfgsales.com/"
+        },
+        {
+          "label": "TPWD — Outdoor Annual Hunting Licenses",
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-licenses"
+        }
+      ]
+    },
+    {
+      "name": "Texas Migratory Game Bird Endorsement",
+      "asterisk": true,
+      "covers": "Required in addition to hunting license to hunt any migratory game bird (dove, duck, goose, rail, gallinule, snipe, sandhill crane, woodcock)",
+      "resident_cost": "$7.00",
+      "nonresident_cost": "$7.00",
+      "purchase_urls": [
+        {
+          "label": "Texas License Sales Portal",
+          "url": "https://www.txfgsales.com/"
+        },
+        {
+          "label": "TPWD — Outdoor Annual Hunting Licenses",
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-licenses"
+        }
+      ]
+    },
+    {
+      "name": "Federal Duck Stamp",
+      "asterisk": true,
+      "covers": "Required for waterfowl hunters age 16+ (ducks, geese, teal); electronic stamp valid for season",
+      "resident_cost": "$25.00 (plus fulfillment)",
+      "nonresident_cost": "$25.00 (plus fulfillment)",
+      "purchase_urls": [
+        {
+          "label": "Texas License Sales Portal",
+          "url": "https://www.txfgsales.com/"
+        },
+        {
+          "label": "USPS — Federal Duck Stamp",
+          "url": "https://www.fws.gov/duckstamps/"
+        }
+      ]
+    },
+    {
+      "name": "Super Combo License (Resident)",
+      "asterisk": false,
+      "covers": "Hunting + fishing license + 5 state endorsements at a discount",
+      "resident_cost": "$68.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Texas License Sales Portal",
+          "url": "https://www.txfgsales.com/"
+        },
+        {
+          "label": "TPWD — Outdoor Annual Hunting Licenses",
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-licenses"
+        }
+      ]
+    }
+  ],
+  "key_notes": [
+    {
+      "title": "A Texas Migratory Game Bird Endorsement ($7) is required in addition to a valid hunting license to hunt any migratory game bird in Texas.",
+      "applies_to": [
+        "Resident Hunting License",
+        "Non-resident General Hunting License",
+        "Youth Hunting License (under age 17)"
+      ],
+      "sources": [
+        {
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-endorsements",
+          "label": "TPWD — Hunting Endorsements",
+          "evidence": "Texas Migratory Game Bird Endorsement (Item 168): $7. Required to hunt any migratory game bird (waterfowl, coot, rail, gallinule, snipe, dove, sandhill crane, and woodcock)."
+        }
+      ]
+    },
+    {
+      "title": "A Federal Duck Stamp ($25) is required for all waterfowl hunters age 16 or older (ducks, geese, teal).",
+      "applies_to": [
+        "Federal Duck Stamp",
+        "Duck",
+        "Goose",
+        "Teal (September Teal)"
+      ],
+      "sources": [
+        {
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-endorsements",
+          "label": "TPWD — Hunting Endorsements (Federal Duck Stamp)",
+          "evidence": "Federal Duck Stamp (Item 138): $25 plus fulfillment. Required for all waterfowl hunters 16 years of age or older. A valid hunting license, HIP Certification, and Texas Migratory Game Bird Endorsement are also required."
+        }
+      ]
+    },
+    {
+      "title": "South Zone dove season now opens September 1 (previously September 14). Special White-winged Dove Days have been eliminated — standardized daily bag limits and shooting hours apply across all days.",
+      "applies_to": [
+        "Dove"
+      ],
+      "sources": [
+        {
+          "url": "https://tpwd.texas.gov/newsmedia/releases/?req=20260401b",
+          "label": "TPW Commission — April 1, 2026 News Release",
+          "evidence": "The South Zone dove hunting season structure during the first segment will include an earlier regular season opening date (Sept. 1 – Oct. 25), eliminate the Special White-winged Dove Days, and institute standardized daily bag limits and shooting hours across all days in the South Zone."
+        }
+      ]
+    },
+    {
+      "title": "Duck bag limits have species-specific restrictions: 5 mallards (max 2 hens), 3 wood ducks, 3 pintails, 2 redheads, 2 canvasbacks, 1 scaup, 1 dusky duck (mottled/Mexican/black duck).",
+      "applies_to": [
+        "Duck"
+      ],
+      "sources": [
+        {
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/regs/animals/duck",
+          "label": "TPWD — Duck Regulations",
+          "evidence": "Daily bag 6 in aggregate, with no more than: 5 mallards (only 2 of which may be hens), 3 wood ducks, 3 pintails, 2 redheads, 2 canvasbacks, 1 scaup, 1 dusky duck."
+        }
+      ]
+    },
+    {
+      "title": "Dusky ducks (mottled, Mexican, black duck, and hybrids) are off-limits for the first 5 days of the regular season in each zone.",
+      "applies_to": [
+        "Duck"
+      ],
+      "sources": [
+        {
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/regs/animals/duck",
+          "label": "TPWD — Duck Regulations",
+          "evidence": "Due to mottled duck population concerns by USFWS, all dusky ducks are off-limits for the first five days of the regular season in each zone."
+        }
+      ]
+    },
+    {
+      "title": "A free Federal Sandhill Crane Hunting Permit is required to hunt sandhill cranes, available online or at TPWD Law Enforcement offices.",
+      "applies_to": [
+        "Sandhill Crane"
+      ],
+      "sources": [
+        {
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-endorsements",
+          "label": "TPWD — Hunting Endorsements (Sandhill Crane)",
+          "evidence": "A free Federal Sandhill Crane Hunting Permit is required to hunt sandhill cranes, which is available at TPWD Law Enforcement offices or online."
+        }
+      ]
+    },
+    {
+      "title": "HIP Certification is required for migratory bird hunters and is obtained when purchasing a hunting license by indicating intent to hunt migratory game birds.",
+      "applies_to": [
+        "Resident Hunting License",
+        "Non-resident General Hunting License"
+      ],
+      "sources": [
+        {
+          "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/migratory-game-bird-regulations/stamps-permits-and-certification",
+          "label": "TPWD — Stamps, Permits, and Certification",
+          "evidence": "Harvest Information Program (HIP) Certification is required for waterfowl hunters 16+; obtained when purchasing a hunting license by indicating intent to hunt migratory game birds."
+        }
+      ]
+    }
+  ]
+}
