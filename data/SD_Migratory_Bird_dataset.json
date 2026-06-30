@@ -1,0 +1,379 @@
+{
+  "state": "South Dakota",
+  "category": "Migratory Birds",
+  "source": {
+    "page_url": "https://gfp.sd.gov/events/keydates/",
+    "page_label": "Key Dates | South Dakota Game, Fish & Parks",
+    "last_updated": null,
+    "update_note": "2026-27 migratory game bird season data from SD GFP key dates page. South Dakota follows USFWS frameworks. Migratory Bird Certification ($5) required in addition to a valid hunting license for all migratory bird hunting.",
+    "scraped_at": "2026-06-30T21:33:28Z"
+  },
+  "species": [
+    {
+      "name": "Dove (Mourning Dove)",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "November 9, 2026",
+      "season_raw": "September 1, 2026 - November 9, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "15 daily (mourning dove)",
+      "possession_limit": "45"
+    },
+    {
+      "name": "Duck (Ducks & Mergansers)",
+      "asterisk": true,
+      "season_start": "September 26, 2026",
+      "season_end": "January 14, 2027",
+      "season_raw": "See zones below for zone-specific dates",
+      "hunting_units": "Low Plains North, Low Plains Middle, Low Plains South, and High Plains (see sub-seasons)",
+      "bag_limit": "6 daily in aggregate (species restrictions apply)",
+      "possession_limit": "18",
+      "sub_seasons": [
+        {
+          "name": "Low Plains North",
+          "season_start": "September 26, 2026",
+          "season_end": "December 8, 2026",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "Low Plains Middle",
+          "season_start": "September 26, 2026",
+          "season_end": "December 8, 2026",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "Low Plains South",
+          "season_start": "October 24, 2026",
+          "season_end": "January 5, 2027",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "High Plains",
+          "season_start": "October 10, 2026",
+          "season_end": "January 14, 2027",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        }
+      ]
+    },
+    {
+      "name": "Canada Goose",
+      "asterisk": true,
+      "season_start": "September 1, 2026",
+      "season_end": "February 14, 2027",
+      "season_raw": "Early Sep 1-30; then Unit 1 and Unit 2 (see sub-seasons)",
+      "hunting_units": "Early Season (statewide), Unit 1, and Unit 2 (see sub-seasons)",
+      "bag_limit": "5 daily",
+      "possession_limit": "15",
+      "sub_seasons": [
+        {
+          "name": "Early Canada Goose",
+          "season_start": "September 1, 2026",
+          "season_end": "September 30, 2026",
+          "bag_limit": "5 daily Canada geese",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Unit 1",
+          "season_start": "October 1, 2026",
+          "season_end": "December 16, 2026",
+          "bag_limit": "5 daily Canada geese",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Unit 2",
+          "season_start": "November 2, 2026",
+          "season_end": "February 14, 2027",
+          "bag_limit": "5 daily Canada geese",
+          "possession_limit": "15"
+        }
+      ]
+    },
+    {
+      "name": "Light Goose",
+      "asterisk": false,
+      "season_start": "September 26, 2026",
+      "season_end": "January 8, 2027",
+      "season_raw": "September 26, 2026 - January 8, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "No daily limit",
+      "possession_limit": "No possession limit"
+    },
+    {
+      "name": "White-fronted Goose",
+      "asterisk": false,
+      "season_start": "September 26, 2026",
+      "season_end": "December 8, 2026",
+      "season_raw": "September 26, 2026 - December 8, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "2 daily",
+      "possession_limit": "6"
+    },
+    {
+      "name": "Sandhill Crane",
+      "asterisk": false,
+      "season_start": "September 26, 2026",
+      "season_end": "November 22, 2026",
+      "season_raw": "September 26, 2026 - November 22, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "3 daily",
+      "possession_limit": "9"
+    },
+    {
+      "name": "Snipe (Common Snipe)",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "October 31, 2026",
+      "season_raw": "September 1, 2026 - October 31, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "8 daily",
+      "possession_limit": "24"
+    },
+    {
+      "name": "Youth Waterfowl (Resident Only)",
+      "asterisk": false,
+      "season_start": "September 12, 2026",
+      "season_end": "September 13, 2026",
+      "season_raw": "September 12-13, 2026 (Resident youth only)",
+      "hunting_units": "Statewide",
+      "bag_limit": "Same as regular duck/goose season limits",
+      "possession_limit": "Same as regular season limits"
+    },
+    {
+      "name": "Crow",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "April 30, 2027",
+      "season_raw": "Fall: Sep 1 - Oct 31; Spring: Mar 1 - Apr 30",
+      "hunting_units": "Statewide",
+      "bag_limit": "No limit",
+      "possession_limit": "No limit",
+      "sub_seasons": [
+        {
+          "name": "Fall Season",
+          "season_start": "September 1, 2026",
+          "season_end": "October 31, 2026",
+          "bag_limit": "No limit",
+          "possession_limit": "No limit"
+        },
+        {
+          "name": "Spring Season",
+          "season_start": "March 1, 2027",
+          "season_end": "April 30, 2027",
+          "bag_limit": "No limit",
+          "possession_limit": "No limit"
+        }
+      ]
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Resident Small Game License",
+      "asterisk": false,
+      "covers": "All small game including migratory birds (does not include fishing)",
+      "resident_cost": "$36.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "South Dakota Go Outdoors Sales Portal",
+          "url": "https://gooutdoorssouthdakota.com/"
+        },
+        {
+          "label": "SD GFP — Licenses & Fees",
+          "url": "https://gfp.sd.gov/licenses/"
+        }
+      ]
+    },
+    {
+      "name": "Resident Combination License",
+      "asterisk": false,
+      "covers": "Fishing + small game + predator hunting",
+      "resident_cost": "$60.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "South Dakota Go Outdoors Sales Portal",
+          "url": "https://gooutdoorssouthdakota.com/"
+        },
+        {
+          "label": "SD GFP — Licenses & Fees",
+          "url": "https://gfp.sd.gov/licenses/"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident Waterfowl License (3-Day)",
+      "asterisk": false,
+      "covers": "Waterfowl hunting for 3 consecutive days",
+      "resident_cost": null,
+      "nonresident_cost": "$106.00",
+      "purchase_urls": [
+        {
+          "label": "South Dakota Go Outdoors Sales Portal",
+          "url": "https://gooutdoorssouthdakota.com/"
+        },
+        {
+          "label": "SD GFP — Licenses & Fees",
+          "url": "https://gfp.sd.gov/licenses/"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident Waterfowl License (10-Day)",
+      "asterisk": false,
+      "covers": "Waterfowl hunting for 10 consecutive days",
+      "resident_cost": null,
+      "nonresident_cost": "$145.00",
+      "purchase_urls": [
+        {
+          "label": "South Dakota Go Outdoors Sales Portal",
+          "url": "https://gooutdoorssouthdakota.com/"
+        },
+        {
+          "label": "SD GFP — Licenses & Fees",
+          "url": "https://gfp.sd.gov/licenses/"
+        }
+      ]
+    },
+    {
+      "name": "Migratory Bird Certification",
+      "asterisk": true,
+      "covers": "Required in addition to a hunting license to hunt any migratory bird (ducks, geese, dove, snipe, crane, coot)",
+      "resident_cost": "$5.00",
+      "nonresident_cost": "$5.00",
+      "purchase_urls": [
+        {
+          "label": "South Dakota Go Outdoors Sales Portal",
+          "url": "https://gooutdoorssouthdakota.com/"
+        },
+        {
+          "label": "SD GFP — Licenses & Fees",
+          "url": "https://gfp.sd.gov/licenses/"
+        }
+      ]
+    },
+    {
+      "name": "Federal Duck Stamp",
+      "asterisk": true,
+      "covers": "Required for waterfowl hunters age 16+ (ducks, geese, mergansers)",
+      "resident_cost": "$25.00 (plus fulfillment fee)",
+      "nonresident_cost": "$25.00 (plus fulfillment fee)",
+      "purchase_urls": [
+        {
+          "label": "South Dakota Go Outdoors Sales Portal",
+          "url": "https://gooutdoorssouthdakota.com/"
+        },
+        {
+          "label": "USPS — Federal Duck Stamp",
+          "url": "https://www.fws.gov/duckstamps/"
+        }
+      ]
+    }
+  ],
+  "key_notes": [
+    {
+      "title": "A Migratory Bird Certification ($5) is required in addition to a valid hunting license to hunt any migratory game bird in South Dakota (ducks, geese, dove, snipe, crane, coot).",
+      "applies_to": [
+        "Resident Small Game License",
+        "Resident Combination License",
+        "Nonresident Waterfowl License (3-Day)",
+        "Nonresident Waterfowl License (10-Day)"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/licenses/",
+          "label": "SD GFP — Licenses & Permits",
+          "evidence": "A Migratory Bird Certification ($5) is required for all migratory bird hunters in addition to a valid hunting license. Covers ducks, geese, dove, snipe, crane, and coot."
+        }
+      ]
+    },
+    {
+      "title": "A Federal Duck Stamp ($25) is required for all waterfowl hunters age 16 or older (ducks, geese, mergansers).",
+      "applies_to": [
+        "Federal Duck Stamp",
+        "Duck (Ducks & Mergansers)",
+        "Canada Goose",
+        "Light Goose",
+        "White-fronted Goose"
+      ],
+      "sources": [
+        {
+          "url": "https://www.fws.gov/duckstamps/",
+          "label": "USFWS — Federal Duck Stamp",
+          "evidence": "All waterfowl hunters 16 years of age or older must possess a valid Federal Duck Stamp."
+        }
+      ]
+    },
+    {
+      "title": "HIP Certification (Harvest Information Program) is required for all migratory bird hunters and is included when purchasing a hunting license in South Dakota.",
+      "applies_to": [
+        "Resident Small Game License",
+        "Resident Combination License",
+        "Nonresident Waterfowl License (3-Day)",
+        "Nonresident Waterfowl License (10-Day)"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/hunt/",
+          "label": "SD GFP — Hunting Information",
+          "evidence": "HIP certification is required for all migratory bird hunters and is obtained when purchasing a hunting license. There is no additional fee for HIP certification in South Dakota."
+        }
+      ]
+    },
+    {
+      "title": "South Dakota duck hunting has species-specific restrictions within the 6-bird daily bag: species limits apply per USFWS regulations.",
+      "applies_to": [
+        "Duck (Ducks & Mergansers)"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/regulations/waterfowl/",
+          "label": "SD GFP — Waterfowl Regulations",
+          "evidence": "Daily bag limit for ducks is 6 in the aggregate, with species-specific restrictions including limits on mallards, pintails, canvasbacks, redheads, and scaup as established by USFWS."
+        }
+      ]
+    },
+    {
+      "title": "Youth Waterfowl Weekend (September 12-13, 2026) is open to resident youth hunters only, with the same bag limits as the regular season. Youth must be accompanied by a non-hunting adult 18+.",
+      "applies_to": [
+        "Youth Waterfowl (Resident Only)"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/events/keydates/",
+          "label": "SD GFP — Key Dates",
+          "evidence": "Youth Waterfowl Season is September 12-13, 2026, open to resident youth hunters only with same bag limits as regular waterfowl season."
+        }
+      ]
+    },
+    {
+      "title": "Sandhill Crane hunting requires a free Sandhill Crane Hunting Permit in addition to a valid hunting license and Migratory Bird Certification.",
+      "applies_to": [
+        "Sandhill Crane"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/hunt/sandhill-crane/",
+          "label": "SD GFP — Sandhill Crane Hunting",
+          "evidence": "A free Sandhill Crane Hunting Permit is required to hunt sandhill cranes in South Dakota, available through the SD GFP licensing system."
+        }
+      ]
+    },
+    {
+      "title": "Light geese (snow, blue, Ross's geese) have no daily or possession limit during the regular season. Conservation order measures may extend the season beyond January 8.",
+      "applies_to": [
+        "Light Goose"
+      ],
+      "sources": [
+        {
+          "url": "https://gfp.sd.gov/events/keydates/",
+          "label": "SD GFP — Key Dates",
+          "evidence": "Light goose season runs September 26, 2026 through January 8, 2027 with no daily limit and no possession limit."
+        }
+      ]
+    }
+  ]
+}

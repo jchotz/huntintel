@@ -5,6 +5,11 @@
       "name": "Iowa",
       "categories": [
         {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/IA_Migratory_Bird_dataset.json"
+        },
+        {
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",
           "dataFile": "data/IA_Upland_Gamebird_dataset.json"
@@ -15,6 +20,11 @@
       "id": "KS",
       "name": "Kansas",
       "categories": [
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/KS_Migratory_Bird_dataset.json"
+        },
         {
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",
@@ -27,6 +37,11 @@
       "name": "Montana",
       "categories": [
         {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/MT_Migratory_Bird_dataset.json"
+        },
+        {
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",
           "dataFile": "data/MT_Upland_Gamebird_dataset.json"
@@ -37,6 +52,11 @@
       "id": "NE",
       "name": "Nebraska",
       "categories": [
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/NE_Migratory_Bird_dataset.json"
+        },
         {
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",
@@ -49,6 +69,11 @@
       "name": "North Dakota",
       "categories": [
         {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/ND_Migratory_Bird_dataset.json"
+        },
+        {
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",
           "dataFile": "data/ND_Upland_Gamebird_dataset.json"
@@ -59,6 +84,11 @@
       "id": "OK",
       "name": "Oklahoma",
       "categories": [
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/OK_Migratory_Bird_dataset.json"
+        },
         {
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",
@@ -71,6 +101,11 @@
       "name": "Oregon",
       "categories": [
         {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/OR_Migratory_Bird_dataset.json"
+        },
+        {
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",
           "dataFile": "data/OR_Upland_Gamebird_dataset.json"
@@ -81,6 +116,11 @@
       "id": "SD",
       "name": "South Dakota",
       "categories": [
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/SD_Migratory_Bird_dataset.json"
+        },
         {
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",
@@ -93,14 +133,14 @@
       "name": "Texas",
       "categories": [
         {
-          "id": "upland-gamebirds",
-          "label": "Upland Game Birds",
-          "dataFile": "data/TX_Upland_Gamebird_dataset.json"
-        },
-        {
           "id": "migratory-birds",
           "label": "Migratory Birds",
           "dataFile": "data/TX_Migratory_Bird_dataset.json"
+        },
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/TX_Upland_Gamebird_dataset.json"
         }
       ]
     },
@@ -108,6 +148,11 @@
       "id": "UT",
       "name": "Utah",
       "categories": [
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/UT_Migratory_Bird_dataset.json"
+        },
         {
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",
@@ -119,6 +164,11 @@
       "id": "WY",
       "name": "Wyoming",
       "categories": [
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/WY_Migratory_Bird_dataset.json"
+        },
         {
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",

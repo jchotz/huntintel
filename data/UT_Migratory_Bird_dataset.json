@@ -1,0 +1,388 @@
+{
+  "state": "Utah",
+  "category": "Migratory Birds",
+  "source": {
+    "page_url": "https://wildlife.utah.gov/waterfowl",
+    "page_label": "2026-2027 Waterfowl Seasons | Utah DWR",
+    "last_updated": null,
+    "update_note": "2026-27 migratory game bird data from Utah DWR waterfowl page. Utah waterfowl seasons follow USFWS frameworks approved in late summer. Northern and Southern Zones have split seasons for ducks and Canada geese. Sandhill crane hunting is limited quota — check the DWR guidebook for annual draw details.",
+    "scraped_at": "2026-06-30T21:33:26Z"
+  },
+  "species": [
+    {
+      "name": "Mourning Dove",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "November 20, 2026",
+      "season_raw": "September 1, 2026 - November 20, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "15 daily",
+      "possession_limit": "45"
+    },
+    {
+      "name": "Duck",
+      "asterisk": true,
+      "season_start": "October 17, 2026",
+      "season_end": "January 30, 2027",
+      "season_raw": "See zones below for split season dates",
+      "hunting_units": "Northern and Southern Zones (see sub-seasons)",
+      "bag_limit": "6 daily in aggregate",
+      "possession_limit": "18",
+      "sub_seasons": [
+        {
+          "name": "Northern Zone — Segment 1",
+          "season_start": "October 17, 2026",
+          "season_end": "December 12, 2026",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "Northern Zone — Segment 2",
+          "season_start": "January 8, 2027",
+          "season_end": "January 30, 2027",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "Southern Zone — Segment 1",
+          "season_start": "October 24, 2026",
+          "season_end": "December 14, 2026",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "Southern Zone — Segment 2",
+          "season_start": "January 15, 2027",
+          "season_end": "March 10, 2027",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        }
+      ]
+    },
+    {
+      "name": "Canada Goose",
+      "asterisk": true,
+      "season_start": "October 17, 2026",
+      "season_end": "January 30, 2027",
+      "season_raw": "Same zone structure as ducks; see sub-seasons",
+      "hunting_units": "Northern and Southern Zones (see sub-seasons)",
+      "bag_limit": "4 daily",
+      "possession_limit": "12",
+      "sub_seasons": [
+        {
+          "name": "Northern Zone — Segment 1",
+          "season_start": "October 17, 2026",
+          "season_end": "December 12, 2026",
+          "bag_limit": "4 daily",
+          "possession_limit": "12"
+        },
+        {
+          "name": "Northern Zone — Segment 2",
+          "season_start": "January 8, 2027",
+          "season_end": "January 30, 2027",
+          "bag_limit": "4 daily",
+          "possession_limit": "12"
+        },
+        {
+          "name": "Southern Zone — Segment 1",
+          "season_start": "October 24, 2026",
+          "season_end": "December 14, 2026",
+          "bag_limit": "4 daily",
+          "possession_limit": "12"
+        },
+        {
+          "name": "Southern Zone — Segment 2",
+          "season_start": "January 15, 2027",
+          "season_end": "March 10, 2027",
+          "bag_limit": "4 daily",
+          "possession_limit": "12"
+        }
+      ]
+    },
+    {
+      "name": "Snipe",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "December 16, 2026",
+      "season_raw": "September 1, 2026 - December 16, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "8 daily",
+      "possession_limit": "24"
+    },
+    {
+      "name": "Sandhill Crane",
+      "asterisk": true,
+      "season_start": "TBD — limited quota draw",
+      "season_end": "TBD — limited quota draw",
+      "season_raw": "Limited quota; check DWR guidebook for annual draw details",
+      "hunting_units": "Limited quota hunting units per DWR guidebook",
+      "bag_limit": "Per permit conditions",
+      "possession_limit": "Per permit conditions"
+    },
+    {
+      "name": "Crow",
+      "asterisk": false,
+      "season_start": "Open season",
+      "season_end": "Open season",
+      "season_raw": "Open season — no closed season in Utah",
+      "hunting_units": "Statewide",
+      "bag_limit": "No limit",
+      "possession_limit": "No limit"
+    },
+    {
+      "name": "Youth Waterfowl",
+      "asterisk": true,
+      "season_start": "Check DWR guidebook",
+      "season_end": "Check DWR guidebook",
+      "season_raw": "Youth waterfowl days scheduled annually; check DWR guidebook",
+      "hunting_units": "Statewide",
+      "bag_limit": "Per DWR guidebook",
+      "possession_limit": "Per DWR guidebook"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Resident 1-Year Basic Hunting (Ages 18-64)",
+      "asterisk": false,
+      "covers": "Basic hunting license for resident adults; valid one year",
+      "resident_cost": "$40.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Utah DWR License Sales Portal",
+          "url": "https://wildlife.utah.gov/licenses"
+        },
+        {
+          "label": "Utah DWR — Waterfowl Page",
+          "url": "https://wildlife.utah.gov/waterfowl"
+        }
+      ]
+    },
+    {
+      "name": "Resident Multi-Year Basic Hunting (Ages 18-64)",
+      "asterisk": false,
+      "covers": "Basic hunting license for resident adults at discounted annual rate",
+      "resident_cost": "$39.00/year",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Utah DWR License Sales Portal",
+          "url": "https://wildlife.utah.gov/licenses"
+        },
+        {
+          "label": "Utah DWR — Waterfowl Page",
+          "url": "https://wildlife.utah.gov/waterfowl"
+        }
+      ]
+    },
+    {
+      "name": "Resident 1-Year Combination License (Ages 18-64)",
+      "asterisk": false,
+      "covers": "Hunting + fishing combination license for resident adults",
+      "resident_cost": "$44.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Utah DWR License Sales Portal",
+          "url": "https://wildlife.utah.gov/licenses"
+        },
+        {
+          "label": "Utah DWR — Waterfowl Page",
+          "url": "https://wildlife.utah.gov/waterfowl"
+        }
+      ]
+    },
+    {
+      "name": "Resident Multi-Year Combination License (Ages 18-64)",
+      "asterisk": false,
+      "covers": "Hunting + fishing combination license at discounted annual rate",
+      "resident_cost": "$43.00/year",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Utah DWR License Sales Portal",
+          "url": "https://wildlife.utah.gov/licenses"
+        },
+        {
+          "label": "Utah DWR — Waterfowl Page",
+          "url": "https://wildlife.utah.gov/waterfowl"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident 1-Year Basic Hunting (Ages 18+)",
+      "asterisk": false,
+      "covers": "Basic hunting license for nonresident adults; valid one year",
+      "resident_cost": null,
+      "nonresident_cost": "$144.00",
+      "purchase_urls": [
+        {
+          "label": "Utah DWR License Sales Portal",
+          "url": "https://wildlife.utah.gov/licenses"
+        },
+        {
+          "label": "Utah DWR — Waterfowl Page",
+          "url": "https://wildlife.utah.gov/waterfowl"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident Multi-Year Basic Hunting (Ages 18+)",
+      "asterisk": false,
+      "covers": "Basic hunting license for nonresident adults at discounted annual rate",
+      "resident_cost": null,
+      "nonresident_cost": "$143.00/year",
+      "purchase_urls": [
+        {
+          "label": "Utah DWR License Sales Portal",
+          "url": "https://wildlife.utah.gov/licenses"
+        },
+        {
+          "label": "Utah DWR — Waterfowl Page",
+          "url": "https://wildlife.utah.gov/waterfowl"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident 3-Day Small Game License",
+      "asterisk": false,
+      "covers": "Small game hunting for 3 consecutive days (nonresident)",
+      "resident_cost": null,
+      "nonresident_cost": "$89.00",
+      "purchase_urls": [
+        {
+          "label": "Utah DWR License Sales Portal",
+          "url": "https://wildlife.utah.gov/licenses"
+        },
+        {
+          "label": "Utah DWR — Waterfowl Page",
+          "url": "https://wildlife.utah.gov/waterfowl"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident 1-Year Combination License",
+      "asterisk": false,
+      "covers": "Hunting + fishing combination license for nonresidents",
+      "resident_cost": null,
+      "nonresident_cost": "$190.00",
+      "purchase_urls": [
+        {
+          "label": "Utah DWR License Sales Portal",
+          "url": "https://wildlife.utah.gov/licenses"
+        },
+        {
+          "label": "Utah DWR — Waterfowl Page",
+          "url": "https://wildlife.utah.gov/waterfowl"
+        }
+      ]
+    },
+    {
+      "name": "Federal Duck Stamp",
+      "asterisk": true,
+      "covers": "Required for waterfowl hunters age 16+ (ducks, geese); electronic stamp valid for season",
+      "resident_cost": "$25.00",
+      "nonresident_cost": "$25.00",
+      "purchase_urls": [
+        {
+          "label": "Utah DWR License Sales Portal",
+          "url": "https://wildlife.utah.gov/licenses"
+        },
+        {
+          "label": "Utah DWR — Waterfowl Page",
+          "url": "https://wildlife.utah.gov/waterfowl"
+        }
+      ]
+    }
+  ],
+  "key_notes": [
+    {
+      "title": "A Federal Duck Stamp ($25) is required for all waterfowl hunters age 16 or older hunting ducks, geese, or other waterfowl in Utah.",
+      "applies_to": [
+        "Federal Duck Stamp",
+        "Duck",
+        "Canada Goose",
+        "Youth Waterfowl"
+      ],
+      "sources": [
+        {
+          "url": "https://wildlife.utah.gov/waterfowl",
+          "label": "Utah DWR — Waterfowl Page",
+          "evidence": "Federal Duck Stamp ($25) required for waterfowl hunters 16+. Available at wildlife.utah.gov/licenses or any U.S. Post Office."
+        }
+      ]
+    },
+    {
+      "title": "HIP (Harvest Information Program) Certification is required for all migratory bird hunters in Utah.",
+      "applies_to": [
+        "Mourning Dove",
+        "Duck",
+        "Canada Goose",
+        "Snipe",
+        "Sandhill Crane",
+        "Crow",
+        "Youth Waterfowl"
+      ],
+      "sources": [
+        {
+          "url": "https://wildlife.utah.gov/waterfowl",
+          "label": "Utah DWR — Waterfowl Page",
+          "evidence": "HIP Certification is required for all migratory bird hunters. Available when purchasing a hunting license or at wildlife.utah.gov."
+        }
+      ]
+    },
+    {
+      "title": "Utah has two waterfowl zones — Northern and Southern — with split season segments for ducks and Canada geese. Northern Zone runs Oct 17–Dec 12 and Jan 8–30. Southern Zone runs Oct 24–Dec 14 and Jan 15–Mar 10.",
+      "applies_to": [
+        "Duck",
+        "Canada Goose"
+      ],
+      "sources": [
+        {
+          "url": "https://wildlife.utah.gov/waterfowl",
+          "label": "Utah DWR — Waterfowl Page",
+          "evidence": "Northern Zone: Segment 1 Oct 17–Dec 12, Segment 2 Jan 8–30; Southern Zone: Segment 1 Oct 24–Dec 14, Segment 2 Jan 15–Mar 10."
+        }
+      ]
+    },
+    {
+      "title": "Sandhill crane hunting is limited quota — hunters must apply through the Utah DWR permit drawing. Consult the annual DWR guidebook for application deadlines and unit-specific quotas.",
+      "applies_to": [
+        "Sandhill Crane"
+      ],
+      "sources": [
+        {
+          "url": "https://wildlife.utah.gov/guidebooks",
+          "label": "Utah DWR — Guidebooks",
+          "evidence": "Sandhill crane hunting is by limited quota only. See the Utah DWR guidebook for application details and unit-specific quotas."
+        }
+      ]
+    },
+    {
+      "title": "Youth waterfowl hunting days are scheduled annually by Utah DWR. Check the current DWR guidebook or waterfowl page for exact dates and regulations.",
+      "applies_to": [
+        "Youth Waterfowl"
+      ],
+      "sources": [
+        {
+          "url": "https://wildlife.utah.gov/waterfowl",
+          "label": "Utah DWR — Waterfowl Page",
+          "evidence": "Youth waterfowl days are held each year. Consult the DWR guidebook or waterfowl page for current season dates."
+        }
+      ]
+    },
+    {
+      "title": "Crows have no closed season in Utah — hunting is permitted year-round with no daily bag or possession limit.",
+      "applies_to": [
+        "Crow"
+      ],
+      "sources": [
+        {
+          "url": "https://wildlife.utah.gov/waterfowl",
+          "label": "Utah DWR — Waterfowl Page",
+          "evidence": "Crow season is open; no daily limit or possession limit imposed."
+        }
+      ]
+    }
+  ]
+}

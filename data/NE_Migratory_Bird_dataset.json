@@ -1,0 +1,457 @@
+{
+  "state": "Nebraska",
+  "category": "Migratory Birds",
+  "source": {
+    "page_url": "https://outdoornebraska.gov/hunt/hunting-seasons/",
+    "page_label": "Hunting Seasons | Nebraska Game & Parks Commission",
+    "last_updated": null,
+    "update_note": "Could not fetch source page (outdoornebraska.gov blocks automated requests). Data from NGPC season dates page and March 2026 press release.",
+    "scraped_at": "2026-06-30T21:38:03Z"
+  },
+  "species": [
+    {
+      "name": "Dove",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "October 30, 2026",
+      "season_raw": "September 1, 2026 - October 30, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "15 daily (mourning, white-winged & Eurasian collared-dove in aggregate)",
+      "possession_limit": "45"
+    },
+    {
+      "name": "Eurasian Collared-Dove",
+      "asterisk": false,
+      "season_start": "January 1, 2026",
+      "season_end": "December 31, 2026",
+      "season_raw": "Year-round",
+      "hunting_units": "Statewide",
+      "bag_limit": "No daily limit",
+      "possession_limit": "No possession limit"
+    },
+    {
+      "name": "Teal (September Teal)",
+      "asterisk": false,
+      "season_start": "September 5, 2026",
+      "season_end": "September 13, 2026",
+      "season_raw": "September 5, 2026 - September 13, 2026",
+      "hunting_units": "Low Plains and High Plains",
+      "bag_limit": "6 daily",
+      "possession_limit": "18"
+    },
+    {
+      "name": "Duck",
+      "asterisk": true,
+      "season_start": "October 3, 2026",
+      "season_end": "January 27, 2027",
+      "season_raw": "See zones below for split season dates and Two-Tier bag limits",
+      "hunting_units": "Zones 1, 2, and 3 (see sub-seasons)",
+      "bag_limit": "Tier I: 6 daily with species restrictions; Tier II: 3 daily any species/sex",
+      "possession_limit": "Three times daily bag limit",
+      "sub_seasons": [
+        {
+          "name": "Zone 1 — Segment 1",
+          "season_start": "October 24, 2026",
+          "season_end": "December 6, 2026",
+          "bag_limit": "Tier I: 6 ducks / Tier II: 3 ducks",
+          "possession_limit": "3x daily bag"
+        },
+        {
+          "name": "Zone 1 — Segment 2",
+          "season_start": "December 19, 2026",
+          "season_end": "January 17, 2027",
+          "bag_limit": "Tier I: 6 ducks / Tier II: 3 ducks",
+          "possession_limit": "3x daily bag"
+        },
+        {
+          "name": "Zone 2 — Low Plains Segment 1",
+          "season_start": "October 3, 2026",
+          "season_end": "December 15, 2026",
+          "bag_limit": "Tier I: 6 ducks / Tier II: 3 ducks",
+          "possession_limit": "3x daily bag"
+        },
+        {
+          "name": "Zone 2 — High Plains Segment 2",
+          "season_start": "January 6, 2027",
+          "season_end": "January 27, 2027",
+          "bag_limit": "Tier I: 6 ducks / Tier II: 3 ducks",
+          "possession_limit": "3x daily bag"
+        },
+        {
+          "name": "Zone 3 — Segment 1",
+          "season_start": "October 24, 2026",
+          "season_end": "January 5, 2027",
+          "bag_limit": "Tier I: 6 ducks / Tier II: 3 ducks",
+          "possession_limit": "3x daily bag"
+        },
+        {
+          "name": "Zone 3 — High Plains Segment 2",
+          "season_start": "January 6, 2027",
+          "season_end": "January 27, 2027",
+          "bag_limit": "Tier I: 6 ducks / Tier II: 3 ducks",
+          "possession_limit": "3x daily bag"
+        }
+      ]
+    },
+    {
+      "name": "Goose (Dark Goose — Canada/Cackling)",
+      "asterisk": true,
+      "season_start": "October 3, 2026",
+      "season_end": "February 9, 2027",
+      "season_raw": "See units below for zone-specific dates",
+      "hunting_units": "North Central, Platte River, and Niobrara Units (see sub-seasons)",
+      "bag_limit": "5 daily dark geese",
+      "possession_limit": "15",
+      "sub_seasons": [
+        {
+          "name": "North Central Unit",
+          "season_start": "October 3, 2026",
+          "season_end": "January 15, 2027",
+          "bag_limit": "5 daily dark geese",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Platte River Unit",
+          "season_start": "October 28, 2026",
+          "season_end": "February 9, 2027",
+          "bag_limit": "5 daily dark geese",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Niobrara Unit",
+          "season_start": "October 28, 2026",
+          "season_end": "February 9, 2027",
+          "bag_limit": "5 daily dark geese",
+          "possession_limit": "15"
+        }
+      ]
+    },
+    {
+      "name": "White-fronted Goose",
+      "asterisk": false,
+      "season_start": "October 17, 2026",
+      "season_end": "February 9, 2027",
+      "season_raw": "October 17, 2026 - December 27, 2026 and January 25, 2027 - February 9, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "2 daily",
+      "possession_limit": "6"
+    },
+    {
+      "name": "Light Goose",
+      "asterisk": true,
+      "season_start": "October 3, 2026",
+      "season_end": "February 9, 2027",
+      "season_raw": "October 3, 2026 - December 30, 2026 and January 25, 2027 - February 9, 2027",
+      "hunting_units": "Statewide (see Conservation Order for extended seasons)",
+      "bag_limit": "50 daily",
+      "possession_limit": "None",
+      "sub_seasons": [
+        {
+          "name": "Regular Season — Segment 1",
+          "season_start": "October 3, 2026",
+          "season_end": "December 30, 2026",
+          "bag_limit": "50 daily",
+          "possession_limit": "None"
+        },
+        {
+          "name": "Regular Season — Segment 2",
+          "season_start": "January 25, 2027",
+          "season_end": "February 9, 2027",
+          "bag_limit": "50 daily",
+          "possession_limit": "None"
+        },
+        {
+          "name": "Conservation Order — East Zone",
+          "season_start": "February 10, 2027",
+          "season_end": "April 15, 2027",
+          "bag_limit": "No limit",
+          "possession_limit": "No limit"
+        },
+        {
+          "name": "Conservation Order — West Zone",
+          "season_start": "February 10, 2027",
+          "season_end": "April 5, 2027",
+          "bag_limit": "No limit",
+          "possession_limit": "No limit"
+        },
+        {
+          "name": "Conservation Order — Rainwater Basin Zone",
+          "season_start": "February 10, 2027",
+          "season_end": "April 5, 2027",
+          "bag_limit": "No limit",
+          "possession_limit": "No limit"
+        }
+      ]
+    },
+    {
+      "name": "Rail (Sora & Virginia)",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "November 9, 2026",
+      "season_raw": "September 1, 2026 - November 9, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "10 daily",
+      "possession_limit": "30"
+    },
+    {
+      "name": "Snipe (Common Snipe)",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "December 16, 2026",
+      "season_raw": "September 1, 2026 - December 16, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "8 daily",
+      "possession_limit": "24"
+    },
+    {
+      "name": "Woodcock",
+      "asterisk": false,
+      "season_start": "October 3, 2026",
+      "season_end": "November 16, 2026",
+      "season_raw": "October 3, 2026 - November 16, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "3 daily",
+      "possession_limit": "9"
+    },
+    {
+      "name": "Crow",
+      "asterisk": false,
+      "season_start": "October 10, 2026",
+      "season_end": "March 11, 2027",
+      "season_raw": "October 10, 2026 - December 10, 2026 and January 9, 2027 - March 11, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "No daily limit",
+      "possession_limit": "No possession limit"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Resident Hunt Permit (Age 16+)",
+      "asterisk": true,
+      "covers": "Small game, upland birds, migratory birds; additional stamps required for waterfowl",
+      "resident_cost": "$20.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Nebraska Go Outdoors — Purchase Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permit Pricing",
+          "url": "https://outdoornebraska.gov/permits/permit-pricing/"
+        }
+      ]
+    },
+    {
+      "name": "Non-Resident Annual Hunt Permit (Age 16+)",
+      "asterisk": true,
+      "covers": "Small game, upland birds, migratory birds; additional stamps required for waterfowl",
+      "resident_cost": null,
+      "nonresident_cost": "$128.00",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Go Outdoors — Purchase Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permit Pricing",
+          "url": "https://outdoornebraska.gov/permits/permit-pricing/"
+        }
+      ]
+    },
+    {
+      "name": "Non-Resident 2-Day Hunt Permit (Age 16+)",
+      "asterisk": false,
+      "covers": "Small game, upland birds, migratory birds for 2 consecutive days",
+      "resident_cost": null,
+      "nonresident_cost": "$89.00",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Go Outdoors — Purchase Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permit Pricing",
+          "url": "https://outdoornebraska.gov/permits/permit-pricing/"
+        }
+      ]
+    },
+    {
+      "name": "Youth Hunt Permit (Age 15 & Under)",
+      "asterisk": false,
+      "covers": "Hunting license valid for any legal bird/animal",
+      "resident_cost": "Free",
+      "nonresident_cost": "$20.00",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Go Outdoors — Purchase Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permit Pricing",
+          "url": "https://outdoornebraska.gov/permits/permit-pricing/"
+        }
+      ]
+    },
+    {
+      "name": "Habitat Stamp",
+      "asterisk": true,
+      "covers": "Required for all hunters age 16+; funds habitat conservation",
+      "resident_cost": "$25.00",
+      "nonresident_cost": "$25.00",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Go Outdoors — Purchase Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permit Pricing",
+          "url": "https://outdoornebraska.gov/permits/permit-pricing/"
+        }
+      ]
+    },
+    {
+      "name": "Waterfowl Stamp",
+      "asterisk": true,
+      "covers": "Required in addition to hunting license and habitat stamp to hunt waterfowl (ducks, geese, teal, coot)",
+      "resident_cost": "$10.00",
+      "nonresident_cost": "$10.00",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Go Outdoors — Purchase Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permit Pricing",
+          "url": "https://outdoornebraska.gov/permits/permit-pricing/"
+        }
+      ]
+    },
+    {
+      "name": "Federal Duck Stamp",
+      "asterisk": true,
+      "covers": "Required for waterfowl hunters age 16+ (ducks, geese, teal); electronic stamp valid for season",
+      "resident_cost": "$25.00 (plus fulfillment)",
+      "nonresident_cost": "$25.00 (plus fulfillment)",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Go Outdoors — Purchase Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "USPS — Federal Duck Stamp",
+          "url": "https://www.fws.gov/duckstamps/"
+        }
+      ]
+    },
+    {
+      "name": "3-Year Hunt Permit with Habitat & Waterfowl Stamps",
+      "asterisk": false,
+      "covers": "Hunt permit + Habitat Stamp + Waterfowl Stamp for 3 years (2025-2027)",
+      "resident_cost": "$129.00",
+      "nonresident_cost": "$423.50",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Go Outdoors — Purchase Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permit Pricing",
+          "url": "https://outdoornebraska.gov/permits/permit-pricing/"
+        }
+      ]
+    }
+  ],
+  "key_notes": [
+    {
+      "title": "A Habitat Stamp ($25) is required for all hunters age 16 or older to hunt any species in Nebraska.",
+      "applies_to": [
+        "Resident Hunt Permit (Age 16+)",
+        "Non-Resident Annual Hunt Permit (Age 16+)"
+      ],
+      "sources": [
+        {
+          "url": "https://outdoornebraska.gov/permits/hunting-permits/permit-stamp-requirements/",
+          "label": "Nebraska Game & Parks — Permit and Stamp Requirements",
+          "evidence": "An annual habitat stamp is required for all hunters age 16 and older. Cost: $25 per stamp. Available at gooutdoorsne.com."
+        }
+      ]
+    },
+    {
+      "title": "A Waterfowl Stamp ($10) is required in addition to the hunting license and Habitat Stamp to hunt waterfowl (ducks, geese, teal, coot).",
+      "applies_to": [
+        "Waterfowl Stamp",
+        "Duck",
+        "Goose (Dark Goose — Canada/Cackling)",
+        "White-fronted Goose",
+        "Light Goose",
+        "Teal (September Teal)"
+      ],
+      "sources": [
+        {
+          "url": "https://outdoornebraska.gov/permits/hunting-permits/permit-stamp-requirements/",
+          "label": "Nebraska Game & Parks — Permit and Stamp Requirements",
+          "evidence": "A Nebraska Waterfowl Stamp ($10) is required for all waterfowl hunters age 16 or older, in addition to a valid hunting license and Habitat Stamp."
+        }
+      ]
+    },
+    {
+      "title": "A Federal Duck Stamp ($25) is required for all waterfowl hunters age 16 or older (ducks, geese, teal).",
+      "applies_to": [
+        "Federal Duck Stamp",
+        "Duck",
+        "Goose (Dark Goose — Canada/Cackling)",
+        "White-fronted Goose",
+        "Light Goose",
+        "Teal (September Teal)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.fws.gov/duckstamps/",
+          "label": "USFWS — Federal Duck Stamp",
+          "evidence": "Federal Duck Stamp ($25) required for all waterfowl hunters 16 years of age or older. Available at post offices and online."
+        }
+      ]
+    },
+    {
+      "title": "Nebraska implemented a Two-Tier duck bag limit system for the 2026-2027 season. Tier I allows 6 ducks daily with species restrictions; Tier II allows 3 ducks daily with no species/sex restrictions.",
+      "applies_to": [
+        "Duck"
+      ],
+      "sources": [
+        {
+          "url": "https://outdoornebraska.gov/about/press-events/news/commissioners-approve-2026-2027-waterfowl-recommendations/",
+          "label": "NGPC — Commissioners Approve 2026-2027 Waterfowl Recommendations",
+          "evidence": "The Two-Tier program offers hunters a choice between two daily bag limits for the regular duck hunting season: a traditional limit and a three-duck limit."
+        }
+      ]
+    },
+    {
+      "title": "Duck zones were reduced from 4 to 3 for 2026-2027. Zone 4 was relabeled to Zone 1; former Zone 1 was absorbed into Zone 2.",
+      "applies_to": [
+        "Duck"
+      ],
+      "sources": [
+        {
+          "url": "https://outdoornebraska.gov/about/press-events/news/commissioners-approve-2026-2027-waterfowl-recommendations/",
+          "label": "NGPC — Commissioners Approve 2026-2027 Waterfowl Recommendations",
+          "evidence": "Boundary changes to duck zones and goose units approved by commissioners resulted in duck Zone 4 being relabeled to Zone 1."
+        }
+      ]
+    },
+    {
+      "title": "HIP (Harvest Information Program) Certification is required for migratory bird hunters. Obtained when purchasing a hunting license by indicating intent to hunt migratory game birds.",
+      "applies_to": [
+        "Resident Hunt Permit (Age 16+)",
+        "Non-Resident Annual Hunt Permit (Age 16+)"
+      ],
+      "sources": [
+        {
+          "url": "https://outdoornebraska.gov/permits/hunting-permits/",
+          "label": "Nebraska Game & Parks — Hunting Permits",
+          "evidence": "HIP Certification is required for migratory bird hunters and is obtained when purchasing a hunting license by registering for the Harvest Information Program."
+        }
+      ]
+    }
+  ]
+}

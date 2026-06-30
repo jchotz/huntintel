@@ -1,0 +1,438 @@
+{
+  "state": "Wyoming",
+  "category": "Migratory Birds",
+  "source": {
+    "page_url": "https://wgfd.wyo.gov/Regulations/Game-Birds-Waterfowl/Late-Migratory-Game-Bird-Hunting-Seasons",
+    "page_label": "Late Migratory Game Bird Hunting Seasons | WGFD",
+    "last_updated": null,
+    "update_note": "2026-27 migratory game bird data from WGFD Late Migratory Game Bird Hunting Seasons page. Wyoming follows Pacific and Central Flyway regulations with multiple zones for ducks and geese.",
+    "scraped_at": "2026-06-30T21:33:33Z"
+  },
+  "species": [
+    {
+      "name": "Mourning Dove",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "November 29, 2026",
+      "season_raw": "September 1, 2026 - November 29, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "15 daily",
+      "possession_limit": "45"
+    },
+    {
+      "name": "Duck (Ducks & Mergansers)",
+      "asterisk": true,
+      "season_start": "September 27, 2026",
+      "season_end": "January 18, 2027",
+      "season_raw": "See zones below for split season dates",
+      "hunting_units": "Pacific Flyway; Central Flyway Zones C1, C1A, C2 (see sub-seasons)",
+      "bag_limit": "6 daily (species restrictions apply)",
+      "possession_limit": "18",
+      "sub_seasons": [
+        {
+          "name": "Pacific Flyway",
+          "season_start": "September 27, 2026",
+          "season_end": "January 9, 2027",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "Central Flyway — Zone C1 & C1A — Segment 1",
+          "season_start": "September 27, 2026",
+          "season_end": "October 14, 2026",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "Central Flyway — Zone C1 & C1A — Segment 2",
+          "season_start": "November 1, 2026",
+          "season_end": "January 18, 2027",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "Central Flyway — Zone C2 — Segment 1",
+          "season_start": "September 27, 2026",
+          "season_end": "December 1, 2026",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        },
+        {
+          "name": "Central Flyway — Zone C2 — Segment 2",
+          "season_start": "December 13, 2026",
+          "season_end": "January 12, 2027",
+          "bag_limit": "6 daily",
+          "possession_limit": "18"
+        }
+      ]
+    },
+    {
+      "name": "Canada Goose / Dark Geese",
+      "asterisk": true,
+      "season_start": "September 27, 2026",
+      "season_end": "February 16, 2027",
+      "season_raw": "See zones below for split season dates",
+      "hunting_units": "Pacific Flyway; Central Flyway Zones C1, C1A, C2 (see sub-seasons)",
+      "bag_limit": "5 daily",
+      "possession_limit": "15",
+      "sub_seasons": [
+        {
+          "name": "Pacific Flyway",
+          "season_start": "September 27, 2026",
+          "season_end": "January 1, 2027",
+          "bag_limit": "5 daily",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Central Flyway — Zone C1 — Segment 1",
+          "season_start": "September 27, 2026",
+          "season_end": "October 5, 2026",
+          "bag_limit": "5 daily",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Central Flyway — Zone C1 — Segment 2",
+          "season_start": "November 1, 2026",
+          "season_end": "November 24, 2026",
+          "bag_limit": "5 daily",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Central Flyway — Zone C1 — Segment 3",
+          "season_start": "December 6, 2026",
+          "season_end": "February 16, 2027",
+          "bag_limit": "5 daily",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Central Flyway — Zone C1A — Segment 1",
+          "season_start": "September 27, 2026",
+          "season_end": "October 8, 2026",
+          "bag_limit": "5 daily",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Central Flyway — Zone C1A — Segment 2",
+          "season_start": "November 15, 2026",
+          "season_end": "February 16, 2027",
+          "bag_limit": "5 daily",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Central Flyway — Zone C2 — Segment 1",
+          "season_start": "September 27, 2026",
+          "season_end": "December 7, 2026",
+          "bag_limit": "5 daily",
+          "possession_limit": "15"
+        },
+        {
+          "name": "Central Flyway — Zone C2 — Segment 2",
+          "season_start": "December 20, 2026",
+          "season_end": "January 21, 2027",
+          "bag_limit": "5 daily",
+          "possession_limit": "15"
+        }
+      ]
+    },
+    {
+      "name": "Light Geese",
+      "asterisk": false,
+      "season_start": "September 27, 2026",
+      "season_end": "February 15, 2027",
+      "season_raw": "September 27 - December 31, 2026 and February 7-15, 2027",
+      "hunting_units": "Central Flyway",
+      "bag_limit": "No daily limit",
+      "possession_limit": "No possession limit",
+      "sub_seasons": [
+        {
+          "name": "Segment 1",
+          "season_start": "September 27, 2026",
+          "season_end": "December 31, 2026",
+          "bag_limit": "No daily limit",
+          "possession_limit": "No possession limit"
+        },
+        {
+          "name": "Segment 2",
+          "season_start": "February 7, 2027",
+          "season_end": "February 15, 2027",
+          "bag_limit": "No daily limit",
+          "possession_limit": "No possession limit"
+        }
+      ]
+    },
+    {
+      "name": "Early Canada Goose (Pacific Flyway)",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "September 8, 2026",
+      "season_raw": "September 1, 2026 - September 8, 2026",
+      "hunting_units": "Pacific Flyway portion of Wyoming",
+      "bag_limit": "5 daily",
+      "possession_limit": "15"
+    },
+    {
+      "name": "Sandhill Crane",
+      "asterisk": true,
+      "season_start": "September 1, 2026",
+      "season_end": "October 19, 2026",
+      "season_raw": "See areas below for specific dates; limited quota",
+      "hunting_units": "Areas 1-6 (see sub-seasons)",
+      "bag_limit": "3 daily",
+      "possession_limit": "9",
+      "sub_seasons": [
+        {
+          "name": "Area 1",
+          "season_start": "September 1, 2026",
+          "season_end": "September 15, 2026",
+          "bag_limit": "3 daily",
+          "possession_limit": "9"
+        },
+        {
+          "name": "Area 2",
+          "season_start": "September 1, 2026",
+          "season_end": "September 15, 2026",
+          "bag_limit": "3 daily",
+          "possession_limit": "9"
+        },
+        {
+          "name": "Area 3",
+          "season_start": "September 1, 2026",
+          "season_end": "September 8, 2026",
+          "bag_limit": "3 daily",
+          "possession_limit": "9"
+        },
+        {
+          "name": "Area 4",
+          "season_start": "September 27, 2026",
+          "season_end": "October 19, 2026",
+          "bag_limit": "3 daily",
+          "possession_limit": "9"
+        },
+        {
+          "name": "Area 5",
+          "season_start": "September 1, 2026",
+          "season_end": "September 15, 2026",
+          "bag_limit": "3 daily",
+          "possession_limit": "9"
+        },
+        {
+          "name": "Area 6",
+          "season_start": "September 13, 2026",
+          "season_end": "October 5, 2026",
+          "bag_limit": "3 daily",
+          "possession_limit": "9"
+        }
+      ]
+    },
+    {
+      "name": "Snipe",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "December 16, 2026",
+      "season_raw": "September 1, 2026 - December 16, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "8 daily",
+      "possession_limit": "24"
+    },
+    {
+      "name": "Sora & Virginia Rail",
+      "asterisk": false,
+      "season_start": "September 1, 2026",
+      "season_end": "November 9, 2026",
+      "season_raw": "September 1, 2026 - November 9, 2026",
+      "hunting_units": "Statewide",
+      "bag_limit": "25 daily",
+      "possession_limit": "75"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Resident Game Bird/Small Game 12-Month",
+      "asterisk": false,
+      "covers": "Game birds and small game for 12 months",
+      "resident_cost": "$27.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "WGFD — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        }
+      ]
+    },
+    {
+      "name": "Resident Daily Game Bird/Small Game",
+      "asterisk": false,
+      "covers": "Game birds and small game for 1 day",
+      "resident_cost": "$9.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "WGFD — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident Game Bird/Small Game 12-Month",
+      "asterisk": false,
+      "covers": "Game birds and small game for 12 months (nonresident)",
+      "resident_cost": null,
+      "nonresident_cost": "$74.00",
+      "purchase_urls": [
+        {
+          "label": "WGFD — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident Daily Game Bird/Small Game",
+      "asterisk": false,
+      "covers": "Game birds and small game for 1 day (nonresident)",
+      "resident_cost": null,
+      "nonresident_cost": "$22.00",
+      "purchase_urls": [
+        {
+          "label": "WGFD — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        }
+      ]
+    },
+    {
+      "name": "Resident Archery License",
+      "asterisk": false,
+      "covers": "Archery hunting privileges for residents",
+      "resident_cost": "$16.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "WGFD — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident Archery License",
+      "asterisk": false,
+      "covers": "Archery hunting privileges for nonresidents",
+      "resident_cost": null,
+      "nonresident_cost": "$72.00",
+      "purchase_urls": [
+        {
+          "label": "WGFD — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        }
+      ]
+    },
+    {
+      "name": "Federal Duck Stamp",
+      "asterisk": true,
+      "covers": "Required for waterfowl hunters age 16+ (ducks, geese)",
+      "resident_cost": "$25.00",
+      "nonresident_cost": "$25.00",
+      "purchase_urls": [
+        {
+          "label": "WGFD — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        },
+        {
+          "label": "USPS — Federal Duck Stamp",
+          "url": "https://www.fws.gov/duckstamps/"
+        }
+      ]
+    },
+    {
+      "name": "HIP Permit",
+      "asterisk": true,
+      "covers": "Required for all migratory bird hunters; funds Harvest Information Program",
+      "resident_cost": "$0.50",
+      "nonresident_cost": "$0.50",
+      "purchase_urls": [
+        {
+          "label": "WGFD — Licenses & Applications",
+          "url": "https://wgfd.wyo.gov/licenses-applications"
+        }
+      ]
+    }
+  ],
+  "key_notes": [
+    {
+      "title": "A Federal Duck Stamp ($25) is required for all waterfowl hunters age 16 or older hunting ducks, geese, and mergansers in Wyoming.",
+      "applies_to": [
+        "Federal Duck Stamp",
+        "Duck (Ducks & Mergansers)",
+        "Canada Goose / Dark Geese",
+        "Light Geese",
+        "Early Canada Goose (Pacific Flyway)"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/Regulations/Game-Birds-Waterfowl/Late-Migratory-Game-Bird-Hunting-Seasons",
+          "label": "WGFD — Late Migratory Game Bird Hunting Seasons",
+          "evidence": "Federal Duck Stamp ($25) required for all waterfowl hunters 16 years of age or older."
+        }
+      ]
+    },
+    {
+      "title": "A HIP Permit ($0.50) is required for all migratory bird hunters in Wyoming. It is a Harvest Information Program certification.",
+      "applies_to": [
+        "HIP Permit",
+        "Mourning Dove",
+        "Duck (Ducks & Mergansers)",
+        "Canada Goose / Dark Geese",
+        "Light Geese",
+        "Early Canada Goose (Pacific Flyway)",
+        "Sandhill Crane",
+        "Snipe",
+        "Sora & Virginia Rail"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/Regulations/Game-Birds-Waterfowl/Late-Migratory-Game-Bird-Hunting-Seasons",
+          "label": "WGFD — Late Migratory Game Bird Hunting Seasons",
+          "evidence": "HIP Permit ($0.50) required for all migratory bird hunters."
+        }
+      ]
+    },
+    {
+      "title": "Duck bag limits have species-specific restrictions within the 6-bird daily aggregate (e.g. mallards, pintails, canvasbacks).",
+      "applies_to": [
+        "Duck (Ducks & Mergansers)"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/Regulations/Game-Birds-Waterfowl/Late-Migratory-Game-Bird-Hunting-Seasons",
+          "label": "WGFD — Late Migratory Game Bird Hunting Seasons",
+          "evidence": "Daily bag limit 6 ducks in the aggregate with species-specific restrictions per USFWS regulations."
+        }
+      ]
+    },
+    {
+      "title": "Sandhill Crane hunting in Wyoming is limited quota and requires a federal Sandhill Crane Hunting Permit in addition to a valid hunting license and HIP Permit.",
+      "applies_to": [
+        "Sandhill Crane"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/Regulations/Game-Birds-Waterfowl/Late-Migratory-Game-Bird-Hunting-Seasons",
+          "label": "WGFD — Late Migratory Game Bird Hunting Seasons",
+          "evidence": "Sandhill crane season is a limited quota season. All areas require a federal sandhill crane hunting permit."
+        }
+      ]
+    },
+    {
+      "title": "Wyoming follows both Pacific and Central Flyway waterfowl regulations. Central Flyway duck zones are split into C1, C1A, and C2 with different season splits and boundaries.",
+      "applies_to": [
+        "Duck (Ducks & Mergansers)",
+        "Canada Goose / Dark Geese"
+      ],
+      "sources": [
+        {
+          "url": "https://wgfd.wyo.gov/Regulations/Game-Birds-Waterfowl/Late-Migratory-Game-Bird-Hunting-Seasons",
+          "label": "WGFD — Late Migratory Game Bird Hunting Seasons",
+          "evidence": "Wyoming is split between Pacific Flyway and Central Flyway hunting zones. Central Flyway duck zones include C1, C1A, and C2 with specific season dates for each."
+        }
+      ]
+    }
+  ]
+}
