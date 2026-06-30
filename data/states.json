@@ -23,17 +23,6 @@
       ]
     },
     {
-      "id": "OR",
-      "name": "Oregon",
-      "categories": [
-        {
-          "id": "upland-gamebirds",
-          "label": "Upland Game Birds",
-          "dataFile": "data/OR_Upland_Gamebird_dataset.json"
-        }
-      ]
-    },
-    {
       "id": "ND",
       "name": "North Dakota",
       "categories": [
@@ -41,6 +30,17 @@
           "id": "upland-gamebirds",
           "label": "Upland Game Birds",
           "dataFile": "data/ND_Upland_Gamebird_dataset.json"
+        }
+      ]
+    },
+    {
+      "id": "OR",
+      "name": "Oregon",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/OR_Upland_Gamebird_dataset.json"
         }
       ]
     },
