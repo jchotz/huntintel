@@ -56,6 +56,17 @@
       ]
     },
     {
+      "id": "UT",
+      "name": "Utah",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/UT_Upland_Gamebird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "WY",
       "name": "Wyoming",
       "categories": [
