@@ -1,0 +1,234 @@
+{
+  "state": "Nebraska",
+  "category": "Upland Game Birds",
+  "source": {
+    "page_url": "https://outdoornebraska.gov/hunt/game/upland/",
+    "page_label": "Upland Hunting | Nebraska Game & Parks Commission",
+    "last_updated": null,
+    "update_note": "Could not fetch source page. Data is from the Hunting Seasons page and Small Game Guide.",
+    "scraped_at": "2026-06-29T22:59:50Z"
+  },
+  "species": [
+    {
+      "name": "Ring-necked Pheasant",
+      "asterisk": true,
+      "season_start": "October 31, 2026",
+      "season_end": "January 31, 2027",
+      "season_raw": "October 31, 2026 - January 31, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "3 male (rooster) pheasants daily",
+      "possession_limit": "12",
+      "sub_seasons": [
+        {
+          "name": "Youth Pheasant, Quail & Partridge Season",
+          "season_start": "October 24, 2026",
+          "season_end": "October 25, 2026",
+          "bag_limit": "Same as regular season limits",
+          "possession_limit": "Same as regular season limits",
+          "note": "Youth ages 15 and under only. Accompanying adult (19+) must be licensed; only one adult per youth may hunt."
+        }
+      ]
+    },
+    {
+      "name": "Northern Bobwhite Quail",
+      "asterisk": false,
+      "season_start": "October 31, 2026",
+      "season_end": "January 31, 2027",
+      "season_raw": "October 31, 2026 - January 31, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "6 daily",
+      "possession_limit": "24"
+    },
+    {
+      "name": "Gray (Hungarian) Partridge",
+      "asterisk": false,
+      "season_start": "October 31, 2026",
+      "season_end": "January 31, 2027",
+      "season_raw": "October 31, 2026 - January 31, 2027",
+      "hunting_units": "Statewide",
+      "bag_limit": "3 daily",
+      "possession_limit": "12"
+    },
+    {
+      "name": "Prairie Grouse",
+      "asterisk": true,
+      "season_start": "September 1, 2026",
+      "season_end": "January 31, 2027",
+      "season_raw": "September 1, 2026 - January 31, 2027",
+      "hunting_units": "Statewide (special permit required east of U.S. Highway 81 — see key notes)",
+      "bag_limit": "3 daily (combined Sharp-tailed Grouse and Greater Prairie-chicken)",
+      "possession_limit": "3"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Hunt Permit (Resident, age 16+)",
+      "asterisk": true,
+      "covers": "All small game including pheasant, quail, partridge, prairie grouse, squirrel, rabbit, and furbearers",
+      "resident_cost": "$20.00",
+      "nonresident_cost": null,
+      "purchase_urls": [
+        {
+          "label": "Nebraska Game & Parks Online License Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permits Page",
+          "url": "https://outdoornebraska.gov/permits/hunting-permits/"
+        }
+      ]
+    },
+    {
+      "name": "Youth Permit (age 15 and under)",
+      "asterisk": false,
+      "covers": "Same as adult Hunt Permit",
+      "resident_cost": "Free",
+      "nonresident_cost": "$20.00",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Game & Parks Online License Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permits Page",
+          "url": "https://outdoornebraska.gov/permits/hunting-permits/"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident Annual Hunt Permit (age 16+)",
+      "asterisk": true,
+      "covers": "All small game including upland birds",
+      "resident_cost": null,
+      "nonresident_cost": "$128.00",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Game & Parks Online License Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permits Page",
+          "url": "https://outdoornebraska.gov/permits/hunting-permits/"
+        }
+      ]
+    },
+    {
+      "name": "Nonresident 2-Day Hunt Permit (age 16+)",
+      "asterisk": false,
+      "covers": "All small game including upland birds (2 consecutive days)",
+      "resident_cost": null,
+      "nonresident_cost": "$89.00",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Game & Parks Online License Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permits Page",
+          "url": "https://outdoornebraska.gov/permits/hunting-permits/"
+        }
+      ]
+    },
+    {
+      "name": "Habitat Stamp",
+      "asterisk": true,
+      "covers": "Required annually for all hunters pursuing small game (with select exemptions)",
+      "resident_cost": "$25.00",
+      "nonresident_cost": "$25.00",
+      "purchase_urls": [
+        {
+          "label": "Nebraska Game & Parks Online License Portal",
+          "url": "https://www.gooutdoorsne.com/"
+        },
+        {
+          "label": "Nebraska Game & Parks — Permits Page",
+          "url": "https://outdoornebraska.gov/permits/hunting-permits/"
+        }
+      ]
+    }
+  ],
+  "key_notes": [
+    {
+      "title": "Prairie grouse (sharp-tailed grouse & greater prairie-chicken) require a special permit when hunting east of U.S. Highway 81.",
+      "applies_to": [
+        "Prairie Grouse"
+      ],
+      "sources": [
+        {
+          "url": "https://outdoornebraska.gov/hunt/hunting-seasons/",
+          "label": "Nebraska Game & Parks — Hunting Seasons",
+          "evidence": "Prairie grouse: Sept. 1, 2026 - Jan. 31, 2027. *special permit required east of U.S. 81"
+        },
+        {
+          "url": "https://digital.outdoornebraska.gov/i/1537408-small-game-and-waterfowl-guide-2025-26-web/0?",
+          "label": "2025-2026 Small Game and Waterfowl Guide — Prairie Grouse Section",
+          "evidence": "A special permit is required to hunt prairie grouse east of U.S. Highway 81."
+        }
+      ]
+    },
+    {
+      "title": "Youth Pheasant, Quail & Partridge season runs two days before the regular opener; youth ages 15 and under only.",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://outdoornebraska.gov/hunt/game/upland/",
+          "label": "Nebraska Game & Parks — Upland Hunting",
+          "evidence": "Nebraska's youth-only pheasant, quail and partridge season is Oct. 24-25, 2026; only youth ages 15 and under are allowed to hunt on these days."
+        },
+        {
+          "url": "https://outdoornebraska.gov/about/press-events/news/youth-pheasant-season-includes-special-youth-hunts/",
+          "label": "NGPC — Youth Pheasant Season News",
+          "evidence": "The accompanying adult must be a licensed hunter aged 19 or older and only one adult per youth will be allowed to hunt."
+        }
+      ]
+    },
+    {
+      "title": "A Habitat Stamp ($25) is required for all hunters pursuing small game, with select exemptions.",
+      "applies_to": [
+        "Hunt Permit (Resident, age 16+)",
+        "Nonresident Annual Hunt Permit (age 16+)",
+        "Nonresident 2-Day Hunt Permit (age 16+)"
+      ],
+      "sources": [
+        {
+          "url": "https://outdoornebraska.gov/permits/hunting-permits/permit-stamp-requirements/",
+          "label": "NGPC — Permit & Stamp Requirements",
+          "evidence": "A Habitat Stamp is required of all hunters pursuing any small game, with select exemptions."
+        }
+      ]
+    },
+    {
+      "title": "Only male pheasants (roosters with visible spurs or plumage) may be taken.",
+      "applies_to": [
+        "Ring-necked Pheasant"
+      ],
+      "sources": [
+        {
+          "url": "https://outdoornebraska.gov/hunt/hunting-seasons/",
+          "label": "Nebraska Game & Parks — Hunting Seasons",
+          "evidence": "Pheasant: 3 per day (12 in possession) — roosters only."
+        },
+        {
+          "url": "https://www.eregulations.com/nebraska/hunting/hunting-bag-limits",
+          "label": "eRegulations — Nebraska Bag Limits",
+          "evidence": "Pheasant, 3 per day (12 in possession)"
+        }
+      ]
+    },
+    {
+      "title": "Prairie grouse daily bag limit is 3 birds total in aggregate (sharp-tailed grouse and greater prairie-chicken combined), with a possession limit of 3.",
+      "applies_to": [
+        "Prairie Grouse"
+      ],
+      "sources": [
+        {
+          "url": "https://www.eregulations.com/nebraska/hunting/hunting-bag-limits",
+          "label": "eRegulations — Nebraska Bag Limits",
+          "evidence": "Prairie Grouse: 3 per day (3 in possession in aggregate)"
+        }
+      ]
+    }
+  ]
+}

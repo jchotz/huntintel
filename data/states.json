@@ -12,6 +12,17 @@
       ]
     },
     {
+      "id": "NE",
+      "name": "Nebraska",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/NE_Upland_Gamebird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "ND",
       "name": "North Dakota",
       "categories": [

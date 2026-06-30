@@ -716,11 +716,11 @@
       if (isNaN(start) || isNaN(end)) return { cls: 'season-open', title: null };
       if (today < start) {
         const days = Math.ceil((start - today) / 86400000);
-        return { cls: 'season-closed', title: `Season is closed — opens in ${days} day${days !== 1 ? 's' : ''} (${startStr})` };
+        return { cls: 'season-open', title: `Season opens in ${days} day${days !== 1 ? 's' : ''} (${startStr})` };
       }
       if (today > end) {
         const days = Math.ceil((today - end) / 86400000);
-        return { cls: 'season-closed', title: `Season is closed — ended ${days} day${days !== 1 ? 's' : ''} ago (${endStr})` };
+        return { cls: 'season-closed', title: `Season ended ${days} day${days !== 1 ? 's' : ''} ago (${endStr})` };
       }
       return { cls: 'season-open', title: null };
     }
@@ -940,7 +940,6 @@
       const grid     = document.getElementById('states-grid');
       const metaEl   = document.getElementById('hero-meta');
       const countEl  = document.getElementById('state-count');
-      const footerEl = document.getElementById('footer-scraped');
 
       try {
         const manifest = await loadJSON('data/states.json');
@@ -957,7 +956,6 @@
           <span class="hero-badge"><strong>${totalCats}</strong> categories</span>
           <span class="hero-badge">More added on request</span>`;
 
-        footerEl.textContent = 'Temporarily hosted at weatherpage.info/huntintel';
       } catch (err) {
         grid.innerHTML = `<p style="color:var(--color-text-muted)">Failed to load states: ${esc(err.message)}</p>`;
       }
