@@ -65,6 +65,22 @@
       ]
     },
     {
+      "id": "MN",
+      "name": "Minnesota",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/MN_Upland_Gamebird_dataset.json"
+        },
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/MN_Migratory_Bird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "MO",
       "name": "Missouri",
       "categories": [
