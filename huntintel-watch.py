@@ -10,6 +10,7 @@ Usage:
     python huntintel-watch.py --quiet             # only print if something changed
     python huntintel-watch.py --init              # initialize state file, don't check
     python huntintel-watch.py --auto              # check AND auto-rescrape + deploy changes
+    python huntintel-watch.py --auto --telegram   # same + send results to Telegram
 
 State is stored in data/.watch-state.json (~1KB).
 
@@ -17,6 +18,11 @@ Auto-rescrape will run the relevant scraper, regenerate the dataset, and FTP
 deploy the updated files. Credentials are read from data/.watch-cred.json:
     {"user": "huntinte@...", "pass": "..."}
 Or pass --user and --pass flags.
+
+Telegram notifications use the BOT_TOKEN from data/.watch-cred.json:
+    {"user": "...", "pass": "...", "telegram_token": "..."}
+Or set the HUNTINTEL_TELEGRAM_BOT_TOKEN env var.
+The first chat that messages the bot is registered as the recipient.
 """
 
 import json, os, sys, time, subprocess
@@ -186,6 +192,52 @@ def rescrape(changed_key, info, user, password):
     return True
 
 
+def send_telegram(message, token):
+    """Send a message via Telegram Bot API. Returns True on success."""
+    import urllib.request
+    url = "https://api.telegram.org/bot{}/sendMessage".format(token)
+    # Get or register chat ID
+    chat_file = os.path.join(REPO, "data", ".watch-telegram-chat.json")
+    chat_id = None
+    if os.path.isfile(chat_file):
+        with open(chat_file) as f:
+            chat_id = json.load(f).get("chat_id")
+
+    if not chat_id:
+        # Get updates to find our chat
+        try:
+            resp = urllib.request.urlopen(
+                "https://api.telegram.org/bot{}/getUpdates?timeout=5".format(token),
+                timeout=10)
+            data = json.loads(resp.read())
+            if data.get("result"):
+                # Use the most recent chat
+                for update in reversed(data["result"]):
+                    msg = update.get("message", {})
+                    cid = msg.get("chat", {}).get("id")
+                    if cid:
+                        chat_id = cid
+                        break
+        except Exception:
+            pass
+
+    if not chat_id:
+        return False
+
+    # Cache chat ID
+    with open(chat_file, "w") as f:
+        json.dump({"chat_id": chat_id}, f)
+
+    # Send message
+    data = json.dumps({"chat_id": chat_id, "text": message, "parse_mode": "HTML"}).encode()
+    try:
+        req = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json"})
+        urllib.request.urlopen(req, timeout=10)
+        return True
+    except Exception:
+        return False
+
+
 def main():
     quiet = "--quiet" in sys.argv
     do_init = "--init" in sys.argv
@@ -327,6 +379,30 @@ def main():
                 success += 1
             print()
         print("Rescraped {}/{} changed sources successfully.".format(success, len(changed)))
+
+    # ── Telegram notification ──
+    if "--telegram" in sys.argv:
+        # Get token from cred file or env var
+        tok = os.environ.get("HUNTINTEL_TELEGRAM_BOT_TOKEN")
+        if not tok:
+            cf = os.path.join(REPO, "data", ".watch-cred.json")
+            if os.path.isfile(cf):
+                with open(cf) as f:
+                    tok = json.load(f).get("telegram_token")
+        if tok:
+            # Build message
+            lines = ["<b>HuntIntel Watch</b>"]
+            total = len(sources)
+            lines.append("Checked: {} sources".format(total))
+            if changed:
+                lines.append("\n<b>⚠️ Changes detected & rescraped:</b>")
+                for key, st, cat, url, reason in changed:
+                    lines.append("• {} — {}".format(st, cat))
+            else:
+                lines.append("\n✅ All up to date.")
+            if errors:
+                lines.append("\n⚠️ {} connection errors (retry next run)".format(len(errors)))
+            send_telegram("\n".join(lines), tok)
 
     if errors and not quiet:
         print("\nConnection errors (will retry next run):")
