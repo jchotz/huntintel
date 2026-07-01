@@ -65,6 +65,22 @@
       ]
     },
     {
+      "id": "MI",
+      "name": "Michigan",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/MI_Upland_Gamebird_dataset.json"
+        },
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/MI_Migratory_Bird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "MN",
       "name": "Minnesota",
       "categories": [
