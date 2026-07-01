@@ -49,6 +49,22 @@
       ]
     },
     {
+      "id": "LA",
+      "name": "Louisiana",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/LA_Upland_Gamebird_dataset.json"
+        },
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/LA_Migratory_Bird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "MT",
       "name": "Montana",
       "categories": [
