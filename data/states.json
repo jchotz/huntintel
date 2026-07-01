@@ -193,6 +193,22 @@
       ]
     },
     {
+      "id": "NV",
+      "name": "Nevada",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/NV_Upland_Gamebird_dataset.json"
+        },
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/NV_Migratory_Bird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "NM",
       "name": "New Mexico",
       "categories": [
