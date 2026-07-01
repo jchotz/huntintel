@@ -33,6 +33,22 @@
       ]
     },
     {
+      "id": "ID",
+      "name": "Idaho",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/ID_Upland_Gamebird_dataset.json"
+        },
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/ID_Migratory_Bird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "IA",
       "name": "Iowa",
       "categories": [
