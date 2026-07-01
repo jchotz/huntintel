@@ -145,6 +145,22 @@
       ]
     },
     {
+      "id": "NM",
+      "name": "New Mexico",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/NM_Upland_Gamebird_dataset.json"
+        },
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/NM_Migratory_Bird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "ND",
       "name": "North Dakota",
       "categories": [
