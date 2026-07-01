@@ -225,6 +225,22 @@
       ]
     },
     {
+      "id": "WI",
+      "name": "Wisconsin",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/WI_Upland_Gamebird_dataset.json"
+        },
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/WI_Migratory_Bird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "WY",
       "name": "Wyoming",
       "categories": [
