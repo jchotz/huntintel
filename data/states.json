@@ -1,6 +1,22 @@
 {
   "states": [
     {
+      "id": "AR",
+      "name": "Arkansas",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/AR_Upland_Gamebird_dataset.json"
+        },
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/AR_Migratory_Bird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "IA",
       "name": "Iowa",
       "categories": [
