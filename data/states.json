@@ -289,6 +289,22 @@
       ]
     },
     {
+      "id": "WA",
+      "name": "Washington",
+      "categories": [
+        {
+          "id": "upland-gamebirds",
+          "label": "Upland Game Birds",
+          "dataFile": "data/WA_Upland_Gamebird_dataset.json"
+        },
+        {
+          "id": "migratory-birds",
+          "label": "Migratory Birds",
+          "dataFile": "data/WA_Migratory_Bird_dataset.json"
+        }
+      ]
+    },
+    {
       "id": "WI",
       "name": "Wisconsin",
       "categories": [
